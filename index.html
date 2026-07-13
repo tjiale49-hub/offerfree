@@ -171,4 +171,9 @@ async function loadDailyJobs(force=false){
   }catch(error){meta.textContent='自动更新数据暂时无法读取，现有岗位库仍可正常使用。';health.innerHTML='';list.innerHTML='<div class="dailyItem">连接暂时失败，请点击“立即刷新”重试。</div>'}
 }
 document.querySelector('#dailyRefresh').onclick=()=>loadDailyJobs(true);loadDailyJobs();
-</script></body></html>
+</script><style>
+/* 竖版阅读布局 */
+.wrap{max-width:960px}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.layout{display:flex;flex-direction:column}.sidebar{display:grid;grid-template-columns:1fr;order:0}.jobs{display:grid;grid-template-columns:1fr;order:0}.job{grid-template-columns:48px minmax(0,1fr) auto}.jobTime{grid-column:auto;text-align:right;display:block}.jobTime b{margin-bottom:7px}.sources,.calendar,.dailyList{display:grid;grid-template-columns:1fr;overflow:visible}.source,.cal,.dailyItem{min-width:0;max-width:none;width:100%}.quality{grid-template-columns:1fr}.resumePanel,.optimizerGrid{grid-template-columns:1fr}.dailyTop{align-items:flex-start}.personalBody{min-height:0}
+@media(max-width:700px){.wrap{padding-left:15px;padding-right:15px}.stats{grid-template-columns:1fr 1fr}.job{grid-template-columns:42px 1fr}.jobTime{grid-column:2;text-align:left;display:flex}.filters{grid-template-columns:1fr 1fr}}
+@media(max-width:430px){.stats,.filters{grid-template-columns:1fr}}
+</style></body></html>
