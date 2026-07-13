@@ -111,4 +111,46 @@ jobs.push(
 {c:'湖南省慧电建材有限公司',t:'文员（周末双休/五险一金）',s:'4K–9K',city:'其他',date:'2026-07-01',deadline:'未公开',industry:'智能制造',nature:'民企',degree:'大专及以上',year:'不限',type:'社招',major:'行政、文秘、管理及不限专业',source:'24365国家大学生就业服务平台',url:'https://www.ncss.cn/student/m/jobs/',desc:'国家大学生就业服务平台公开职位，工作地点安徽，平台标注周末双休及五险一金。',req:'薪资构成、试用期、工作地点和福利应在面试前向企业核实。',tags:['文员','安徽','双休']}
 );
 document.querySelector('#count').textContent=jobs.length;document.querySelector('#today').textContent=jobs.filter(j=>j.date==='2026-07-13').length;document.querySelector('#companyCount').textContent=new Set(jobs.map(j=>j.c)).size;draw();
+</script><style>
+/* 横版工作台布局 */
+.wrap{max-width:1420px;padding-left:24px;padding-right:24px}.layout{grid-template-columns:1fr}.sidebar{grid-template-columns:repeat(4,minmax(0,1fr));grid-row:1}.jobs{grid-template-columns:repeat(2,minmax(0,1fr));grid-row:2}.job{grid-template-columns:48px minmax(0,1fr);align-items:start}.jobTime{grid-column:2;text-align:left;display:flex;gap:14px;align-items:center}.jobTime b{margin:0}.sources,.calendar{display:flex;overflow-x:auto;scroll-snap-type:x proximity;padding-bottom:8px}.source,.cal{min-width:270px;flex:1;scroll-snap-align:start}.personalNav{overflow-x:auto;white-space:nowrap}.personalBody{min-height:310px}.resumePanel{grid-template-columns:1fr 1fr}.optimizerGrid{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(340px,.65fr);gap:14px}.optimizerEditor,.optimizerResult{border:1px solid var(--line);border-radius:14px;padding:18px;background:#fff}.optimizerEditor label{display:block;font-size:12px;font-weight:900;margin:12px 0 6px}.optimizerEditor input,.optimizerEditor textarea{width:100%;border:1px solid var(--line);border-radius:9px;padding:11px;background:#fbfdfc}.optimizerEditor textarea{min-height:250px;resize:vertical;line-height:1.7}.optActions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.optBtn{border:0;border-radius:9px;padding:10px 15px;background:var(--green);color:#fff;font-weight:900;cursor:pointer}.optBtn.secondary{background:#edf3f0;color:var(--green)}.scoreRing{width:92px;height:92px;border-radius:50%;display:grid;place-items:center;background:conic-gradient(var(--green) calc(var(--score,0)*1%),#e7eeea 0);margin:0 auto 14px;position:relative}.scoreRing:after{content:"";position:absolute;inset:9px;border-radius:50%;background:#fff}.scoreRing b{position:relative;z-index:1;font-size:25px}.optList{margin:10px 0 0;padding-left:20px;color:#4f5e57;font-size:13px;line-height:1.8}.privacyNote{font-size:11px;color:var(--muted);margin-top:9px}.keywordChips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}.keywordChips span{font-size:11px;padding:5px 8px;border-radius:99px;background:#eef5f1;color:var(--green)}
+@media(max-width:1050px){.sidebar{grid-template-columns:repeat(2,1fr)}.jobs{grid-template-columns:1fr}.optimizerGrid{grid-template-columns:1fr}}
+@media(max-width:600px){.wrap{padding-left:15px;padding-right:15px}.sidebar{grid-template-columns:1fr}.resumePanel{grid-template-columns:1fr}.optimizerResult{min-width:0}.source,.cal{min-width:235px}}
+</style><script>
+// 简历优化：完全在浏览器本地运行，不上传简历内容。
+const personalNav=document.querySelector('.personalNav');
+if(personalNav&&!document.querySelector('[data-p="optimize"]')){
+  personalNav.insertAdjacentHTML('beforeend','<button data-p="optimize">简历优化</button>');
+  document.querySelector('.personalBody').insertAdjacentHTML('beforeend',`<div class="personalPanel" id="pp-optimize"><div class="optimizerGrid"><div class="optimizerEditor"><h3>简历优化工作台</h3><p style="font-size:12px;color:var(--muted)">粘贴简历文字并填写目标岗位，系统会检查完整度、岗位关键词和成果表达。</p><label for="targetRole">目标岗位 / 关键词</label><input id="targetRole" placeholder="例如：化工工艺工程师，工艺优化，质量管理"><label for="resumeText">简历文字</label><textarea id="resumeText" placeholder="将简历正文粘贴到这里。建议包含教育经历、实习/项目、技能证书和成果数据。"></textarea><div class="optActions"><button class="optBtn" id="analyzeResume">开始优化检查</button><button class="optBtn secondary" id="saveResumeText">本地保存</button><button class="optBtn secondary" id="clearResumeText">清空</button></div><div class="privacyNote">🔒 内容仅在当前浏览器计算和保存，不会上传到服务器。</div></div><div class="optimizerResult" id="optimizerResult"><div class="scoreRing" style="--score:0"><b>--</b></div><h3 style="text-align:center">等待检查</h3><p style="font-size:12px;color:var(--muted);text-align:center">填写目标岗位并粘贴简历后开始检查。</p></div></div></div>`);
+}
+function switchPersonal(name){document.querySelectorAll('.personalNav button').forEach(b=>b.classList.toggle('on',b.dataset.p===name));document.querySelectorAll('.personalPanel').forEach(p=>p.classList.toggle('on',p.id==='pp-'+name))}
+document.querySelectorAll('.personalNav button').forEach(b=>b.addEventListener('click',()=>switchPersonal(b.dataset.p)));
+const resumeTextKey='offerfree.resume.text.v1',targetRoleKey='offerfree.resume.target.v1';
+const savedResumeText=localStorage.getItem(resumeTextKey)||'',savedTargetRole=localStorage.getItem(targetRoleKey)||'';
+if(document.querySelector('#resumeText')){document.querySelector('#resumeText').value=savedResumeText;document.querySelector('#targetRole').value=savedTargetRole}
+function analyzeResumeText(){
+  const text=document.querySelector('#resumeText').value.trim(),target=document.querySelector('#targetRole').value.trim();
+  if(text.length<80){alert('请粘贴更完整的简历文字，至少包含教育、项目或实习经历。');return}
+  let score=20,tips=[],passed=[];
+  const tests=[
+    {ok:/1[3-9]\d{9}|\b\w+[.-]?\w+@[\w.-]+\.\w+\b/.test(text),pts:10,pass:'联系方式完整',tip:'补充醒目的手机号和邮箱。'},
+    {ok:/教育|大学|学院|本科|硕士|专业/.test(text),pts:12,pass:'教育经历清楚',tip:'写明学校、专业、学历和毕业时间。'},
+    {ok:/项目|课题|课程设计|毕业设计/.test(text),pts:12,pass:'包含项目经历',tip:'增加与目标岗位相关的项目经历。'},
+    {ok:/实习|工作|实践|任职/.test(text),pts:12,pass:'包含实践经历',tip:'补充实习、校园实践或实验室经历。'},
+    {ok:/技能|证书|英语|软件|熟练|掌握/.test(text),pts:10,pass:'技能证书明确',tip:'单列技能与证书，并写清熟练程度。'},
+    {ok:/\d+%|\d+人|\d+次|\d+项|提升|降低|节省|完成/.test(text),pts:14,pass:'存在量化成果',tip:'把职责改成“动作 + 方法 + 数据结果”，例如效率提升15%。'}
+  ];
+  tests.forEach(x=>{if(x.ok){score+=x.pts;passed.push(x.pass)}else tips.push(x.tip)});
+  const keywords=target.split(/[，,、\s/]+/).filter(x=>x.length>1).slice(0,10),missing=keywords.filter(k=>!text.toLowerCase().includes(k.toLowerCase()));
+  if(keywords.length){const hit=keywords.length-missing.length;score+=Math.round(10*hit/keywords.length);if(missing.length)tips.push('考虑在真实经历中补充岗位关键词：'+missing.join('、'));else passed.push('目标岗位关键词覆盖良好')}
+  if(text.length>1500)tips.push('正文偏长，建议压缩重复描述并控制在1–2页。');
+  if(text.length<350)tips.push('内容偏少，建议补充2–3段有成果的项目或实习经历。');
+  score=Math.min(100,score);
+  const grade=score>=85?'竞争力较强':score>=70?'基础完整':score>=55?'仍需加强':'建议重点修改';
+  document.querySelector('#optimizerResult').innerHTML=`<div class="scoreRing" style="--score:${score}"><b>${score}</b></div><h3 style="text-align:center">${grade}</h3><div class="keywordChips">${passed.map(x=>`<span>✓ ${x}</span>`).join('')}</div><h4>优先修改建议</h4><ol class="optList">${(tips.length?tips:['简历结构已较完整，下一步针对每个岗位调整关键词顺序。']).map(x=>`<li>${x}</li>`).join('')}</ol><h4>推荐表达公式</h4><p style="font-size:12px;color:var(--muted);line-height:1.7">负责什么 → 使用什么方法/工具 → 解决什么问题 → 取得什么可量化结果。避免只写“参与、协助、了解”。</p>`;
+}
+document.querySelector('#analyzeResume').onclick=analyzeResumeText;
+document.querySelector('#saveResumeText').onclick=()=>{localStorage.setItem(resumeTextKey,document.querySelector('#resumeText').value);localStorage.setItem(targetRoleKey,document.querySelector('#targetRole').value);alert('简历文字已保存到当前浏览器')};
+document.querySelector('#clearResumeText').onclick=()=>{if(confirm('确定清空本地保存的简历文字吗？')){localStorage.removeItem(resumeTextKey);localStorage.removeItem(targetRoleKey);document.querySelector('#resumeText').value='';document.querySelector('#targetRole').value='';document.querySelector('#optimizerResult').innerHTML='<div class="scoreRing" style="--score:0"><b>--</b></div><h3 style="text-align:center">等待检查</h3>'}};
+const navCredit=document.querySelector('.credit');if(navCredit&&!document.querySelector('a[href="#personal"]'))navCredit.insertAdjacentHTML('beforebegin','<a href="#personal">简历优化</a>');
 </script></body></html>
