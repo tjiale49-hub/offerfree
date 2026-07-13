@@ -93,7 +93,8 @@ const results = await Promise.all([
 for (const result of results) {
   const unique = [...new Map(result.found.map(x => [`${x.source}|${x.title}|${x.url}`, x])).values()];
   const retained = previous.items.filter(x => x.source === result.source);
-  all.push(...(unique.length ? unique : retained));
+  // 保留历史有效条目，再合并本次新数据；这样岗位库会随每日同步持续增长，而不是每天只显示一页。
+  all.push(...retained, ...unique);
   sourceStatus.push({ source: result.source, status: unique.length ? 'updated' : 'retained', count: unique.length || retained.length, checkedAt: updatedAt, reachable: result.reachable });
 }
 
