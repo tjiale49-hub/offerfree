@@ -284,4 +284,8 @@ fetch(`daily-jobs.json?v=${new Date().toISOString().slice(0,10)}`,{cache:'no-sto
  document.querySelector('#count').textContent=jobs.length;document.querySelector('#companyCount').textContent=new Set(jobs.map(j=>j.c)).size;draw();
 }).catch(e=>{document.querySelector('#bulkCount').textContent=' · 今日数据读取失败，仍可使用三个平台的原文入口';console.warn('bulk jobs',e)});
 })();
+</script><script>
+// OfferFree 直接聚合公开来源，不再提供 OfferBiu 文件导入入口。
+document.querySelector('#openImport')?.remove();
+document.querySelector('#importModal')?.remove();
 </script></body></html>
