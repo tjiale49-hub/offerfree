@@ -2,7 +2,7 @@ name: Daily recruitment update
 
 on:
   schedule:
-    - cron: '17 0 * * *'
+    - cron: '17 */6 * * *'
   workflow_dispatch:
 
 permissions:
