@@ -153,4 +153,22 @@ document.querySelector('#analyzeResume').onclick=analyzeResumeText;
 document.querySelector('#saveResumeText').onclick=()=>{localStorage.setItem(resumeTextKey,document.querySelector('#resumeText').value);localStorage.setItem(targetRoleKey,document.querySelector('#targetRole').value);alert('简历文字已保存到当前浏览器')};
 document.querySelector('#clearResumeText').onclick=()=>{if(confirm('确定清空本地保存的简历文字吗？')){localStorage.removeItem(resumeTextKey);localStorage.removeItem(targetRoleKey);document.querySelector('#resumeText').value='';document.querySelector('#targetRole').value='';document.querySelector('#optimizerResult').innerHTML='<div class="scoreRing" style="--score:0"><b>--</b></div><h3 style="text-align:center">等待检查</h3>'}};
 const navCredit=document.querySelector('.credit');if(navCredit&&!document.querySelector('a[href="#personal"]'))navCredit.insertAdjacentHTML('beforebegin','<a href="#personal">简历优化</a>');
+</script><style>
+.dailyBox{margin-top:24px;background:linear-gradient(120deg,#fff,#edf7f2);border:1px solid var(--line);border-radius:17px;padding:18px}.dailyTop{display:flex;justify-content:space-between;gap:14px;align-items:center}.dailyTop h2{margin:0;font-size:21px}.dailyMeta{font-size:11px;color:var(--muted);margin-top:5px}.dailyRefresh{border:0;border-radius:9px;padding:9px 13px;background:var(--green);color:#fff;font-weight:900;cursor:pointer}.dailyList{display:flex;gap:10px;overflow-x:auto;padding:14px 1px 4px;scroll-snap-type:x proximity}.dailyItem{min-width:290px;max-width:360px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px;scroll-snap-align:start}.dailyItem b{display:block;font-size:14px;line-height:1.5}.dailyItem span{display:block;color:var(--muted);font-size:10px;margin:8px 0}.dailyItem a{color:var(--green);text-decoration:none;font-size:12px;font-weight:900}.sourceHealth{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}.sourceHealth i{font-style:normal;font-size:10px;background:#e6f1ec;color:var(--green);padding:4px 7px;border-radius:99px}.sourceHealth i.retained{background:#fff0e8;color:#a64b20}@media(max-width:600px){.dailyTop{align-items:flex-start}.dailyItem{min-width:245px}}
+</style><script>
+document.querySelector('.stats').insertAdjacentHTML('afterend',`<section class="dailyBox" id="daily"><div class="dailyTop"><div><h2>每天更新的招聘信息</h2><div class="dailyMeta" id="dailyMeta">正在读取最新数据…</div><div class="sourceHealth" id="sourceHealth"></div></div><button class="dailyRefresh" id="dailyRefresh">立即刷新</button></div><div class="dailyList" id="dailyList"><div class="dailyItem">正在连接招聘数据…</div></div></section>`);
+async function loadDailyJobs(force=false){
+  const meta=document.querySelector('#dailyMeta'),list=document.querySelector('#dailyList'),health=document.querySelector('#sourceHealth');
+  meta.textContent='正在读取最新数据…';
+  try{
+    const key=force?Date.now():new Date().toISOString().slice(0,10);
+    const response=await fetch(`daily-jobs.json?v=${key}`,{cache:force?'no-store':'default'});
+    if(!response.ok)throw new Error('更新文件暂不可用');
+    const data=await response.json();
+    meta.textContent=`每日北京时间 08:17 自动更新 · 最近更新 ${data.updatedAt}（${data.timezone}）`;
+    health.innerHTML=(data.sourceStatus||[]).map(x=>`<i class="${x.status}">${x.source} · ${x.status==='updated'?'已更新':'沿用上次成功数据'}</i>`).join('');
+    list.innerHTML=data.items.length?data.items.slice(0,24).map(x=>`<article class="dailyItem"><b>${x.title}</b><span>${x.source} · 发现于 ${x.discoveredAt}</span><a href="${x.url}" target="_blank" rel="noopener">查看平台原文 ↗</a></article>`).join(''):'<div class="dailyItem">本次检查暂无新增公开条目，请稍后刷新。</div>';
+  }catch(error){meta.textContent='自动更新数据暂时无法读取，现有岗位库仍可正常使用。';health.innerHTML='';list.innerHTML='<div class="dailyItem">连接暂时失败，请点击“立即刷新”重试。</div>'}
+}
+document.querySelector('#dailyRefresh').onclick=()=>loadDailyJobs(true);loadDailyJobs();
 </script></body></html>
