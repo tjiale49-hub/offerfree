@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0b3d2e">
+  <meta name="description" content="OfferFree 聚合公开招聘信息，提供校招、实习、央国企与社会招聘筛选、投递管理和简历匹配工具。">
+  <meta property="og:title" content="OfferFree｜公开招聘信息与求职工作台">
+  <meta property="og:description" content="来源透明、筛选清晰、数据只在本地保存的求职工作台。">
+  <title>OfferFree｜公开招聘信息与求职工作台</title>
+  <link rel="icon" href="assets/offerfree-avatar.png" type="image/png">
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#jobs">跳到招聘信息</a>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="OfferFree 首页">
+      <img class="brand-avatar" src="assets/offerfree-avatar.png" width="42" height="42" alt="OfferFree 卡通头像">
+      <span>OfferFree<small>求职不设门槛</small></span>
+    </a>
+    <nav class="desktop-nav" aria-label="主导航">
+      <a href="#jobs">岗位库</a><a href="#workspace">工作台</a><a href="#calendar">截止日历</a><a href="#sources">信息来源</a>
+    </nav>
+    <div class="creator">由「柯KKKKo咳乐」创造 · 微信 <strong>cocokkkle</strong></div>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <span class="eyebrow">PUBLIC JOBS · VERIFIED SOURCES</span>
+        <h1 id="hero-title">找工作这件事，<br><em>少一点信息差。</em></h1>
+        <p>聚合公开招聘入口，优先展示原始来源。岗位信息仅用于检索与管理，最终状态、要求和投递结果以招聘方原文为准。</p>
+        <form class="hero-search" id="heroSearch" role="search">
+          <label class="sr-only" for="q">搜索岗位</label>
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.4-4.4m2.4-5.1A7.5 7.5 0 1 1 4 11.5a7.5 7.5 0 0 1 15 0Z"/></svg>
+          <input id="q" type="search" autocomplete="off" placeholder="试试：上海 化工 央企，或 27届 芯片 实习">
+          <button type="submit">搜索岗位</button>
+        </form>
+        <div class="quick-tabs" id="quickTabs" aria-label="岗位专区">
+          <button class="on" data-preset="all">全部岗位</button>
+          <button data-preset="27">27届提前批</button>
+          <button data-preset="26">26届补录</button>
+          <button data-preset="intern">暑期实习</button>
+          <button data-preset="state">国企央企</button>
+        </div>
+      </div>
+      <div class="hero-panel" aria-label="网站数据摘要">
+        <div class="live"><i></i><span id="syncText">正在读取公开岗位库</span></div>
+        <div class="hero-number"><strong id="count">—</strong><span>条公开招聘记录</span></div>
+        <div class="hero-grid">
+          <div><strong id="today">—</strong><span>今日更新</span></div>
+          <div><strong id="companyCount">—</strong><span>招聘单位</span></div>
+          <div><strong id="sourceCount">8</strong><span>来源类别</span></div>
+        </div>
+        <small id="updatedAt">数据更新时间读取中…</small>
+      </div>
+    </section>
+
+    <section class="deadline-strip" id="calendar" aria-labelledby="deadline-title">
+      <div class="section-title compact"><div><span class="kicker">DEADLINE</span><h2 id="deadline-title">即将截止</h2></div><p>固定日期优先展示，招满即止请尽早投递</p></div>
+      <div class="deadline-list" id="deadlineList"><div class="skeleton wide"></div><div class="skeleton wide"></div><div class="skeleton wide"></div></div>
+    </section>
+
+    <section class="job-section" id="jobs" aria-labelledby="jobs-title">
+      <div class="section-title"><div><span class="kicker">JOB LIBRARY</span><h2 id="jobs-title">招聘信息库</h2></div><p>平台仅作为信息来源，不作为岗位展示</p></div>
+
+      <div class="filter-shell">
+        <button class="mobile-filter-button" id="mobileFilterButton" type="button" aria-expanded="false" aria-controls="filters">筛选岗位 <span id="activeFilterCount">0</span></button>
+        <div class="filters" id="filters">
+          <label>工作城市<select id="city"><option value="">全国城市</option></select></label>
+          <label>行业 / 专业<select id="industry"><option value="">全部行业</option></select></label>
+          <label>学历<select id="degree"><option value="">全部学历</option><option>不限</option><option>大专</option><option>专升本</option><option>本科</option><option>硕士</option><option>博士</option></select></label>
+          <label>届别<select id="year"><option value="">全部届别</option><option>2026届</option><option>2027届</option><option>2028届及以后</option><option>不限</option></select></label>
+          <label>岗位类型<select id="type"><option value="">全部类型</option><option>校招</option><option>实习</option><option>社招</option><option>提前批</option><option>综合入口</option></select></label>
+          <label>企业属性<select id="nature"><option value="">全部属性</option><option>央企</option><option>国企/事业单位</option><option>民企</option><option>外企</option><option>其他</option></select></label>
+          <label>信息来源<select id="source"><option value="">全部来源</option></select></label>
+          <label>排序<select id="sort"><option value="latest">最新发布</option><option value="deadline">截止日期最近</option><option value="match">匹配度最高</option><option value="salary">薪资最高</option></select></label>
+          <button class="clear-button" id="clearFilters" type="button">清空筛选</button>
+        </div>
+      </div>
+
+      <div class="resultbar"><div><strong id="resultText">加载中…</strong><span id="resultHint">选择简历画像后可查看匹配度</span></div><button id="profileShortcut" type="button">设置求职画像</button></div>
+      <div class="job-layout">
+        <div class="job-list" id="jobList" aria-live="polite">
+          <div class="skeleton card"></div><div class="skeleton card"></div><div class="skeleton card"></div>
+        </div>
+        <aside class="insight-panel">
+          <section><h3>筛选结果分布</h3><div id="cityRank"></div></section>
+          <section><h3>投递前检查</h3><ul><li>职位是否仍在官网开放</li><li>用工主体与工作地点是否一致</li><li>拒绝收费内推和付费培训</li><li>不向私人账户转账</li></ul></section>
+        </aside>
+      </div>
+      <button class="load-more" id="loadMore" type="button">加载更多岗位</button>
+    </section>
+
+    <section class="workspace" id="workspace" aria-labelledby="workspace-title">
+      <div class="section-title"><div><span class="kicker">MY WORKSPACE</span><h2 id="workspace-title">我的求职工作台</h2></div><p>收藏、投递、复盘与简历附件均保存在当前浏览器</p></div>
+      <div class="workspace-tabs" role="tablist">
+        <button class="on" role="tab" data-worktab="applications">投递管理</button>
+        <button role="tab" data-worktab="resumes">附件简历</button>
+        <button role="tab" data-worktab="profile">求职画像 / JD匹配</button>
+        <button role="tab" data-worktab="todos">今日待办</button>
+      </div>
+      <div class="workspace-panel on" id="work-applications"></div>
+      <div class="workspace-panel" id="work-resumes"></div>
+      <div class="workspace-panel" id="work-profile"></div>
+      <div class="workspace-panel" id="work-todos"></div>
+    </section>
+
+    <section class="sources-section" id="sources" aria-labelledby="sources-title">
+      <div class="section-title"><div><span class="kicker">SOURCE HEALTH</span><h2 id="sources-title">平台更新与信息来源</h2></div><p>每日更新不局限于三个平台；受登录、验证码和站点规则限制时保留人工核验</p></div>
+      <div class="source-grid" id="sourceGrid"></div>
+    </section>
+
+    <section class="school-section" aria-labelledby="school-title">
+      <div><span class="kicker">ALUMNI DESTINATIONS</span><h2 id="school-title">校友去向</h2><p>选择学校后查看经授权、匿名化的公开统计。没有可靠数据时不会虚构结果。</p></div>
+      <div class="school-card">
+        <label>我的学校<input id="schoolInput" list="schoolList" placeholder="输入学校名称"><datalist id="schoolList"><option>清华大学</option><option>北京大学</option><option>南开大学</option><option>福州大学</option><option>厦门大学</option><option>华南理工大学</option></datalist></label>
+        <button id="schoolSearch" type="button">查看校友去向</button>
+        <p id="schoolResult">校友数据功能需要学校就业质量报告或用户自愿匿名贡献作为数据源。</p>
+      </div>
+    </section>
+  </main>
+
+  <footer><div class="brand footer-brand"><img class="brand-avatar" src="assets/offerfree-avatar.png" width="38" height="38" alt="OfferFree 卡通头像"><span>OfferFree<small>永久免费 · 来源透明</small></span></div><p>不收集简历内容，不代替招聘方。由「柯KKKKo咳乐」创造 · 微信 cocokkkle</p><button id="feedbackButton" type="button">私密反馈</button></footer>
+
+  <nav class="mobile-nav" aria-label="移动端导航"><a href="#jobs">岗位库</a><a href="#workspace">工作台</a><a href="#calendar">截止</a><a href="#sources">来源</a></nav>
+
+  <div class="drawer-bg" id="drawerBg" hidden><aside class="drawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle"><button class="drawer-close" id="drawerClose" type="button" aria-label="关闭">×</button><div id="detail"></div></aside></div>
+  <div class="modal-bg" id="modalBg" hidden><section class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><button class="drawer-close" id="modalClose" type="button" aria-label="关闭">×</button><div id="modalContent"></div></section></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
