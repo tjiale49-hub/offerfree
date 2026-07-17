@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-18 00:40",
+  "updatedAt": "2026-07-18 05:12",
   "timezone": "Asia/Shanghai",
-  "total": 428,
+  "total": 434,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -803,6 +803,102 @@
       "url": "https://job.ncss.cn/student/jobs/CLDSXac9TVRnPGARm7noT9/detail.html",
       "description": "民营企业 · 1-49人 · 汉语言 新闻 中文 中文师范",
       "industry": "教育",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-07-18"
+    },
+    {
+      "company": "长沙太易和康中医药科技有限公司",
+      "title": "产品销售专员",
+      "city": "全国",
+      "salary": "2-8K",
+      "degree": "本科及以上",
+      "date": "2026-07-17",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/WY4W6PG7QrBeNyf9ZFFVmg/detail.html",
+      "description": "民营企业 · 1-49人",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-07-18"
+    },
+    {
+      "company": "克拉玛依市科华技术服务有限责任公司",
+      "title": "化验室分析员",
+      "city": "新疆",
+      "salary": "5-10K",
+      "degree": "本科及以上",
+      "date": "2026-07-17",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/MsaVcdUKF6VjJwrXkuLyZJ/detail.html",
+      "description": "民营企业 · 50-99人 · 环境工程 化学工艺及工程 机电 机械 生物 检验检疫",
+      "industry": "化工医药",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-07-18"
+    },
+    {
+      "company": "克拉玛依市科华技术服务有限责任公司",
+      "title": "环境检测员",
+      "city": "新疆",
+      "salary": "5-7K",
+      "degree": "专科及以上",
+      "date": "2026-07-17",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/F42j4tXt51ZyFNhoB58Cw5/detail.html",
+      "description": "民营企业 · 50-99人 · 环境工程 化学工艺及工程 机电 机械 生物 检验检疫",
+      "industry": "化工医药",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-07-18"
+    },
+    {
+      "company": "西安天勤汇理私募基金管理有限公司",
+      "title": "股票交易员",
+      "city": "陕西",
+      "salary": "6-10K",
+      "degree": "本科及以上",
+      "date": "2026-07-17",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/EwgYi7YZPtPL9JviczSqZw/detail.html",
+      "description": "民营企业 · 1-49人 · 数学 物理 经济 金融 心理学 计算机科学与技术",
+      "industry": "金融",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-07-18"
+    },
+    {
+      "company": "四川嘉精科技有限公司",
+      "title": "线上面试/无责5000/后台业务",
+      "city": "四川",
+      "salary": "6-10K",
+      "degree": "不限",
+      "date": "2026-07-17",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Bw2qBnppaVE42gPK72aCJM/detail.html",
+      "description": "民营企业 · 1000-4999人 · 0",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-07-18"
+    },
+    {
+      "company": "四川嘉精科技有限公司",
+      "title": "无责5000+/可线上面试/后台客服",
+      "city": "四川",
+      "salary": "6-10K",
+      "degree": "不限",
+      "date": "2026-07-17",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/UMDTCcnCmUMwCXGHeQf8DR/detail.html",
+      "description": "民营企业 · 1000-4999人 · 0",
+      "industry": "其他",
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-07-18"
@@ -6797,22 +6893,22 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-07-18 00:40",
+      "checkedAt": "2026-07-18 05:12",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-07-18 00:40",
+      "checkedAt": "2026-07-18 05:12",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-07-18 00:40",
-      "reachable": true
+      "checkedAt": "2026-07-18 05:12",
+      "reachable": false
     }
   ]
 }
