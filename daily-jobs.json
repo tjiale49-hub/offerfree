@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16 21:02",
+  "updatedAt": "2026-08-17 02:48",
   "timezone": "Asia/Shanghai",
   "total": 1935,
   "items": [
@@ -45,7 +45,7 @@
       "city": "全国",
       "salary": "薪资面议",
       "degree": "不限",
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/jobs/search/%E5%9B%BD%E4%BC%81?keyword=%E5%9B%BD%E4%BC%81",
@@ -53,7 +53,55 @@
       "industry": "其他",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
+    },
+    {
+      "company": "卡特彼勒2027校招",
+      "title": "卡特彼勒2027校招",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-08-17",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fcareers.caterpillar.com%2Fzh%2F%E8%81%8C%E4%BD%8D%2F%3Fsearch%3Dcampushire%26country%3DChina%26pagesize%3D20%23results",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-17"
+    },
+    {
+      "company": "欣旺达27届校园招聘",
+      "title": "欣旺达27届校园招聘",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-08-17",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fbsurl.cn%2Fv2%2FI8WU5pF4",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-17"
+    },
+    {
+      "company": "做开发工程师 ，挑战高年薪",
+      "title": "做开发工程师 ，挑战高年薪",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-08-17",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/jobs/search/%E5%BC%80%E5%8F%91?keyword=%E5%BC%80%E5%8F%91&saltype=07,08,09",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "龙湖集团校园招聘",
@@ -65,54 +113,6 @@
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Flongfor.zhaopin.com%2F",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-16"
-    },
-    {
-      "company": "卡特彼勒2027校招",
-      "title": "卡特彼勒2027校招",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-08-16",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fcareers.caterpillar.com%2Fzh%2F%E8%81%8C%E4%BD%8D%2F%3Fsearch%3Dcampushire%26country%3DChina%26pagesize%3D20%23results",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-16"
-    },
-    {
-      "company": "欣旺达27届校园招聘",
-      "title": "欣旺达27届校园招聘",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-08-16",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fbsurl.cn%2Fv2%2FI8WU5pF4",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-16"
-    },
-    {
-      "company": "做开发工程师 ，挑战高年薪",
-      "title": "做开发工程师 ，挑战高年薪",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-08-16",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://q.yingjiesheng.com/jobs/search/%E5%BC%80%E5%8F%91?keyword=%E5%BC%80%E5%8F%91&saltype=07,08,09",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
       "type": "校招",
@@ -133,7 +133,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "温州谷登文具有限公司",
@@ -149,7 +149,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -165,7 +165,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -181,7 +181,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -197,7 +197,7 @@
       "industry": "金融",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "浙江高宇液压机电有限公司",
@@ -229,7 +229,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -245,7 +245,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -261,7 +261,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -277,7 +277,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -293,7 +293,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "深圳市畅飞扬信息系统有限公司",
@@ -341,7 +341,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "长沙君蓬房地产经纪有限责任公司",
@@ -357,7 +357,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "长沙君蓬房地产经纪有限责任公司",
@@ -373,7 +373,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "长沙君蓬房地产经纪有限责任公司",
@@ -389,7 +389,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "长沙君蓬房地产经纪有限责任公司",
@@ -405,7 +405,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "长沙君蓬房地产经纪有限责任公司",
@@ -421,7 +421,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "长沙君蓬房地产经纪有限责任公司",
@@ -437,7 +437,7 @@
       "industry": "互联网",
       "type": "实习",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "三亚昕泰实业有限公司",
@@ -453,7 +453,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "浙江双良汽车零部件有限公司",
@@ -469,7 +469,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "长沙君蓬房地产经纪有限责任公司",
@@ -485,7 +485,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "长沙君蓬房地产经纪有限责任公司",
@@ -501,7 +501,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "长沙君蓬房地产经纪有限责任公司",
@@ -517,7 +517,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "长沙君蓬房地产经纪有限责任公司",
@@ -533,7 +533,7 @@
       "industry": "建筑地产",
       "type": "实习",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "威海奥文机电科技股份有限公司",
@@ -549,7 +549,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "威海奥文机电科技股份有限公司",
@@ -565,7 +565,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "威海奥文机电科技股份有限公司",
@@ -581,7 +581,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "威海奥文机电科技股份有限公司",
@@ -597,7 +597,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "淮安经济技术开发区空港卓文高级中学有限公司",
@@ -613,7 +613,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "淮安经济技术开发区空港卓文高级中学有限公司",
@@ -629,7 +629,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "浙江西湾动力科技有限公司",
@@ -645,7 +645,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "浙江科硕紧固件有限公司",
@@ -661,7 +661,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "双胞胎（集团）股份有限公司",
@@ -677,7 +677,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "浙江高宇液压机电有限公司",
@@ -693,7 +693,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "江苏粤海饲料有限公司",
@@ -709,7 +709,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "深圳市畅飞扬信息系统有限公司",
@@ -725,7 +725,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "山东星纪云途科技有限公司",
@@ -741,7 +741,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "四川齐博法律咨询服务有限公司",
@@ -757,7 +757,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "广州市白云工商技师学院",
@@ -773,7 +773,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "广州市白云工商技师学院",
@@ -789,7 +789,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "广州市白云工商技师学院",
@@ -805,7 +805,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "浙江双良汽车零部件有限公司",
@@ -821,7 +821,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "浙江双良汽车零部件有限公司",
@@ -837,7 +837,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "三亚昕泰实业有限公司",
@@ -853,7 +853,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "辽宁智测数字科技有限公司",
@@ -869,7 +869,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "浙江双良汽车零部件有限公司",
@@ -885,7 +885,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "双胞胎（集团）股份有限公司",
@@ -901,7 +901,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "双胞胎（集团）股份有限公司",
@@ -917,7 +917,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "双胞胎（集团）股份有限公司",
@@ -933,7 +933,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "双胞胎（集团）股份有限公司",
@@ -949,7 +949,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "中洲联创（厦门）科技有限公司",
@@ -22821,7 +22821,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-08-16"
+      "discoveredAt": "2026-08-17"
     },
     {
       "company": "中国银行股份有限公司",
@@ -30909,21 +30909,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-08-16 21:02",
+      "checkedAt": "2026-08-17 02:48",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 5,
-      "checkedAt": "2026-08-16 21:02",
+      "count": 4,
+      "checkedAt": "2026-08-17 02:48",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-16 21:02",
+      "checkedAt": "2026-08-17 02:48",
       "reachable": true
     }
   ]
