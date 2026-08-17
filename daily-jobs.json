@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-17 02:48",
+  "updatedAt": "2026-08-17 09:56",
   "timezone": "Asia/Shanghai",
-  "total": 1935,
+  "total": 1936,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -101,6 +101,22 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
+      "discoveredAt": "2026-08-17"
+    },
+    {
+      "company": "厦门银行股份有限公司",
+      "title": "厦门银行股份有限公司",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-08-17",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fxmbank.mokahr.vip",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "金融",
+      "type": "校招",
+      "nature": "国企/事业单位",
       "discoveredAt": "2026-08-17"
     },
     {
@@ -30909,21 +30925,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-08-17 02:48",
+      "checkedAt": "2026-08-17 09:56",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 4,
-      "checkedAt": "2026-08-17 02:48",
+      "count": 5,
+      "checkedAt": "2026-08-17 09:56",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-17 02:48",
+      "checkedAt": "2026-08-17 09:56",
       "reachable": true
     }
   ]
