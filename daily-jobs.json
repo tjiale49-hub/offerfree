@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18 09:52",
+  "updatedAt": "2026-08-18 15:06",
   "timezone": "Asia/Shanghai",
   "total": 1936,
   "items": [
@@ -30925,21 +30925,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-08-18 09:52",
+      "checkedAt": "2026-08-18 15:06",
       "reachable": true
     },
     {
       "source": "应届生求职网",
-      "status": "retained",
-      "count": 10,
-      "checkedAt": "2026-08-18 09:52",
+      "status": "updated",
+      "count": 5,
+      "checkedAt": "2026-08-18 15:06",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-18 09:52",
+      "checkedAt": "2026-08-18 15:06",
       "reachable": true
     }
   ]
