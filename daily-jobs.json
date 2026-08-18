@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-18 15:06",
+  "updatedAt": "2026-08-18 21:10",
   "timezone": "Asia/Shanghai",
-  "total": 1936,
+  "total": 1938,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -23304,6 +23304,38 @@
       "discoveredAt": "2026-08-10"
     },
     {
+      "company": "上能电气股份有限公司",
+      "title": "产品检验",
+      "city": "江苏",
+      "salary": "5-6K",
+      "degree": "专科及以上",
+      "date": "16:37",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/U3CQTUYZmfF9yRGadBtyRS/detail.html",
+      "description": "股份制企业 · 100-499人 · 电力系统自动化技术 电气自动化 机电设备专业优先",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-18"
+    },
+    {
+      "company": "上能电气股份有限公司",
+      "title": "装配技术",
+      "city": "江苏",
+      "salary": "5-6K",
+      "degree": "专科及以上",
+      "date": "16:37",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Pf4NGJv1SqmZg8MAe88s3f/detail.html",
+      "description": "股份制企业 · 100-499人 · 电力系统自动化技术 电气自动化 机电设备专业优先",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-18"
+    },
+    {
       "company": "河南省资源环境调查三院有限公司",
       "title": "勘查技术与工程(钻探方向)",
       "city": "河南",
@@ -30925,22 +30957,22 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-08-18 15:06",
+      "checkedAt": "2026-08-18 21:10",
       "reachable": true
     },
     {
       "source": "应届生求职网",
-      "status": "updated",
-      "count": 5,
-      "checkedAt": "2026-08-18 15:06",
+      "status": "retained",
+      "count": 10,
+      "checkedAt": "2026-08-18 21:10",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-18 15:06",
-      "reachable": true
+      "checkedAt": "2026-08-18 21:10",
+      "reachable": false
     }
   ]
 }
