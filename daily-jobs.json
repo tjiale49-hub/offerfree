@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19 09:54",
+  "updatedAt": "2026-08-19 15:07",
   "timezone": "Asia/Shanghai",
   "total": 1938,
   "items": [
@@ -773,7 +773,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-18"
+      "discoveredAt": "2026-08-19"
     },
     {
       "company": "山东星纪云途科技有限公司",
@@ -789,7 +789,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-18"
+      "discoveredAt": "2026-08-19"
     },
     {
       "company": "四川齐博法律咨询服务有限公司",
@@ -996,6 +996,22 @@
       "description": "民营企业 · 5000以上 · 市场营销 工商管理 电子商务 财务管理 食品科学与工程 生物工程 生物技术",
       "industry": "化工医药",
       "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-19"
+    },
+    {
+      "company": "浙江云创蔚来科技集团有限公司",
+      "title": "27届用友销售实习生",
+      "city": "浙江",
+      "salary": "3-3.5K",
+      "degree": "本科及以上",
+      "date": "2026-08-15",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/EMHvKDNbvVkuWwSpfQupkf/detail.html",
+      "description": "民营企业 · 500-999人 · 不限",
+      "industry": "其他",
+      "type": "实习",
       "nature": "其他",
       "discoveredAt": "2026-08-19"
     },
@@ -24760,22 +24776,6 @@
       "discoveredAt": "2026-07-27"
     },
     {
-      "company": "浙江云创蔚来科技集团有限公司",
-      "title": "27届用友销售实习生",
-      "city": "浙江",
-      "salary": "3-3.5K",
-      "degree": "本科及以上",
-      "date": "14:53",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/EMHvKDNbvVkuWwSpfQupkf/detail.html",
-      "description": "民营企业 · 500-999人 · 不限",
-      "industry": "其他",
-      "type": "实习",
-      "nature": "其他",
-      "discoveredAt": "2026-08-15"
-    },
-    {
       "company": "黑龙江车盛泰汽车配件有限公司",
       "title": "取货打包发货员",
       "city": "黑龙江",
@@ -30956,22 +30956,22 @@
     {
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
-      "count": 50,
-      "checkedAt": "2026-08-19 09:54",
+      "count": 49,
+      "checkedAt": "2026-08-19 15:07",
       "reachable": true
     },
     {
       "source": "应届生求职网",
-      "status": "updated",
-      "count": 5,
-      "checkedAt": "2026-08-19 09:54",
+      "status": "retained",
+      "count": 10,
+      "checkedAt": "2026-08-19 15:07",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-19 09:54",
+      "checkedAt": "2026-08-19 15:07",
       "reachable": true
     }
   ]
