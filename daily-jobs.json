@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21 03:02",
+  "updatedAt": "2026-08-21 09:59",
   "timezone": "Asia/Shanghai",
   "total": 1939,
   "items": [
@@ -229,7 +229,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-20"
+      "discoveredAt": "2026-08-21"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -245,7 +245,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-20"
+      "discoveredAt": "2026-08-21"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -261,7 +261,7 @@
       "industry": "金融",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-20"
+      "discoveredAt": "2026-08-21"
     },
     {
       "company": "浙江高宇液压机电有限公司",
@@ -309,7 +309,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-20"
+      "discoveredAt": "2026-08-21"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -325,7 +325,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-20"
+      "discoveredAt": "2026-08-21"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -341,7 +341,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-20"
+      "discoveredAt": "2026-08-21"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -357,7 +357,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-20"
+      "discoveredAt": "2026-08-21"
     },
     {
       "company": "深圳市畅飞扬信息系统有限公司",
@@ -30972,23 +30972,23 @@
     {
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
-      "count": 43,
-      "checkedAt": "2026-08-21 03:02",
+      "count": 50,
+      "checkedAt": "2026-08-21 09:59",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
       "count": 4,
-      "checkedAt": "2026-08-21 03:02",
+      "checkedAt": "2026-08-21 09:59",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-21 03:02",
-      "reachable": true
+      "checkedAt": "2026-08-21 09:59",
+      "reachable": false
     }
   ]
 }
