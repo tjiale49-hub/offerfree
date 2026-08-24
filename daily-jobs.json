@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24 02:50",
+  "updatedAt": "2026-08-24 09:59",
   "timezone": "Asia/Shanghai",
   "total": 1985,
   "items": [
@@ -229,7 +229,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-23"
+      "discoveredAt": "2026-08-24"
     },
     {
       "company": "杭州同益文化传播有限公司",
@@ -949,7 +949,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-21"
+      "discoveredAt": "2026-08-24"
     },
     {
       "company": "北京厚德财通科技有限公司",
@@ -31709,21 +31709,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-08-24 02:50",
+      "checkedAt": "2026-08-24 09:59",
       "reachable": true
     },
     {
       "source": "应届生求职网",
-      "status": "updated",
-      "count": 7,
-      "checkedAt": "2026-08-24 02:50",
+      "status": "retained",
+      "count": 15,
+      "checkedAt": "2026-08-24 09:59",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-24 02:50",
+      "checkedAt": "2026-08-24 09:59",
       "reachable": true
     }
   ]
