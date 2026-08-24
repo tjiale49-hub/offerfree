@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-24 21:16",
+  "updatedAt": "2026-08-25 03:02",
   "timezone": "Asia/Shanghai",
-  "total": 2022,
+  "total": 2028,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -38,6 +38,358 @@
       "source": "中智招聘网",
       "url": "https://mp.weixin.qq.com/s/xCfyGjZo79cAFo016IzOJQ",
       "discoveredAt": "2026-07-13"
+    },
+    {
+      "company": "西安图为电气技术有限公司",
+      "title": "电力电子硬件工程师",
+      "city": "陕西",
+      "salary": "10-22K",
+      "degree": "本科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/PPKYDhFW76SgCf67yhLgfC/detail.html",
+      "description": "股份制企业 · 1-49人 · 不限专业",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "杭州新融邻帮科技有限公司",
+      "title": "市场管培生",
+      "city": "福建",
+      "salary": "3-5K",
+      "degree": "专科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/DdAaKGtALV9QhAGH91mBRU/detail.html",
+      "description": "合资企业 · 50-99人 · 市场营销",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "西安冬俊体育发展有限公司",
+      "title": "篮球教练",
+      "city": "陕西",
+      "salary": "5-12K",
+      "degree": "专科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/9nbKsXAUEeLAMbK3i9ZSLA/detail.html",
+      "description": "其他 · 100-499人 · 体育 营销 教育",
+      "industry": "教育",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "深圳市桢源建筑工程有限公司",
+      "title": "绿化养护技术员",
+      "city": "四川",
+      "salary": "5-6K",
+      "degree": "专科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/JLMbMUjwKGvKSQVDmpFHuT/detail.html",
+      "description": "民营企业 · 50-99人",
+      "industry": "建筑地产",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "中国大地财产保险股份有限公司揭阳中心支公司",
+      "title": "续保实习生（公司提供资源，包吃住，可盖章，晋升大）",
+      "city": "广东",
+      "salary": "4-8K",
+      "degree": "专科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/AJaGqAkVDcGKz3hgysxnHg/detail.html",
+      "description": "国有企业 · 100-499人",
+      "industry": "金融",
+      "type": "实习",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "中国大地财产保险股份有限公司揭阳中心支公司",
+      "title": "车险电销客服（晋升空间大，实习可盖章，后期可返乡）",
+      "city": "广东",
+      "salary": "4-8K",
+      "degree": "专科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/LesifEmeqiyj5wyMEP9aKh/detail.html",
+      "description": "国有企业 · 100-499人",
+      "industry": "金融",
+      "type": "实习",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "深圳市桢源建筑工程有限公司",
+      "title": "建筑废弃物处理技术员",
+      "city": "四川",
+      "salary": "5-6K",
+      "degree": "专科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/5QMgTgA4YffZRs7dPpxHKU/detail.html",
+      "description": "民营企业 · 50-99人",
+      "industry": "建筑地产",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "上海昆睿机器人有限公司",
+      "title": "plc电气工程师 五休二",
+      "city": "上海",
+      "salary": "6-12K",
+      "degree": "本科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Lp6ee459MdQMjd3QTnKvaQ/detail.html",
+      "description": "民营企业 · 1-49人 · 电气工程 自动化 机电一体化等相关专业",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "浙江华川深能环保有限公司",
+      "title": "虚拟电厂工程师",
+      "city": "浙江",
+      "salary": "7-15K",
+      "degree": "本科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/8EwEeqBVh34ANc5jZupCdb/detail.html",
+      "description": "民营企业 · 100-499人 · 能源互联网工程 智慧能源工程 智慧电厂 虚拟电厂 储能 新能源科学与工程 电网优化控制 能源与动力 电气自动化",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "云南华盛图书有限公司",
+      "title": "学校发书员",
+      "city": "云南",
+      "salary": "3-4K",
+      "degree": "不限",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Lpwz6gFWakR7orKAiPtbg3/detail.html",
+      "description": "民营企业 · 1-49人 · 不限专业",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "福州九色鹿培训学校",
+      "title": "小/初/高英语教师",
+      "city": "福建",
+      "salary": "8-12K",
+      "degree": "本科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/EmVq76euYGn4FBFpNZxeGF/detail.html",
+      "description": "其他 · 100-499人 · 英语 商务英语 翻译 学前教育（双语）",
+      "industry": "教育",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "福州九色鹿培训学校",
+      "title": "急招高段英语教师",
+      "city": "福建",
+      "salary": "8-12K",
+      "degree": "本科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/FrsL8Yaz3jG6ziG1JuK81b/detail.html",
+      "description": "其他 · 100-499人",
+      "industry": "教育",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "福州九色鹿培训学校",
+      "title": "英语教师（年薪保底10W）",
+      "city": "福建",
+      "salary": "8-9K",
+      "degree": "本科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Gt9HxXvqkKW86YmBoTia7Z/detail.html",
+      "description": "其他 · 100-499人",
+      "industry": "教育",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "上海昆睿机器人有限公司",
+      "title": "机械设计",
+      "city": "上海",
+      "salary": "5-10K",
+      "degree": "本科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/R3cuGZyJmrQ7KvhtkNbfux/detail.html",
+      "description": "民营企业 · 1-49人 · 机械 机电 自动化类相关专业",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "上海昆睿机器人有限公司",
+      "title": "机器人初级调试人员（技术储备）",
+      "city": "上海",
+      "salary": "4.5-6.5K",
+      "degree": "本科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/32HYvh7yE8u23kau2Vb2bb/detail.html",
+      "description": "民营企业 · 1-49人 · 机械 机电 自动化类相关专业",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "保定东泽数字科技有限公司",
+      "title": "化工数据跟踪员",
+      "city": "河北",
+      "salary": "4-5K",
+      "degree": "专科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/5vgZqj7ArTQodkYLLMaHkq/detail.html",
+      "description": "民营企业 · 100-499人 · 化学相关专业",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "吉林省家本文化传播有限公司",
+      "title": "销售主管",
+      "city": "吉林",
+      "salary": "4-15K",
+      "degree": "不限",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/AgPjPKco4Vibz3tDgYr3pD/detail.html",
+      "description": "民营企业 · 1-49人 · 教育、管理或运营专业",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "吉林省家本文化传播有限公司",
+      "title": "校区运营校长",
+      "city": "吉林",
+      "salary": "5-20K",
+      "degree": "不限",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/34shiaiGS63ENnwEFAJZB4/detail.html",
+      "description": "民营企业 · 1-49人 · 教育、管理或运营专业",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "吉林省家本文化传播有限公司",
+      "title": "英语自主学习规划师",
+      "city": "吉林",
+      "salary": "4-9K",
+      "degree": "不限",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/33wyh8JZkc17YHmc5nDXYw/detail.html",
+      "description": "民营企业 · 1-49人",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "吉林省家本文化传播有限公司",
+      "title": "销售顾问",
+      "city": "吉林",
+      "salary": "5-20K",
+      "degree": "不限",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/LBCY1bPmu6Cu3J4kkjizNT/detail.html",
+      "description": "民营企业 · 1-49人",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "吉林省家本文化传播有限公司",
+      "title": "教务管理",
+      "city": "吉林",
+      "salary": "3-7K",
+      "degree": "本科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/HizBZeHhk91AwhDuZMji3h/detail.html",
+      "description": "民营企业 · 1-49人 · 幼教专业，教师专业，管理专业",
+      "industry": "教育",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "吉林省家本文化传播有限公司",
+      "title": "教育新媒体运营",
+      "city": "吉林",
+      "salary": "5-20K",
+      "degree": "本科及以上",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Lc7aPcFQBq4LD7722p5fS7/detail.html",
+      "description": "民营企业 · 1-49人",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "国企招聘专场",
@@ -261,7 +613,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "浙江太平洋经贸集团有限公司",
@@ -277,7 +629,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "无锡宏洲建筑装饰有限公司",
@@ -309,7 +661,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "杭州同益文化传播有限公司",
@@ -325,7 +677,7 @@
       "industry": "其他",
       "type": "实习",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "南京同讯房地产营销策划有限公司",
@@ -341,7 +693,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "深圳市创世纪机械有限公司",
@@ -357,7 +709,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "白沙筑汇建材批发有限公司",
@@ -373,7 +725,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "华鑫国际信托有限公司",
@@ -389,7 +741,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "道德芯文化科技集团有限公司",
@@ -469,7 +821,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "安莉芳（中国）服装有限公司",
@@ -485,7 +837,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "道德芯文化科技集团有限公司",
@@ -533,7 +885,7 @@
       "industry": "制造业",
       "type": "实习",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "上海苏香木兰健康科技有限公司",
@@ -677,7 +1029,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "湖南象盒网络科技有限公司",
@@ -693,7 +1045,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "派科光电科技（深圳）有限公司",
@@ -709,7 +1061,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "派科光电科技（深圳）有限公司",
@@ -725,7 +1077,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "派科光电科技（深圳）有限公司",
@@ -805,7 +1157,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "重庆允公光电科技有限公司",
@@ -821,7 +1173,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "太原弘泰铁路工程咨询有限责任公司",
@@ -837,7 +1189,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-08-24"
+      "discoveredAt": "2026-08-25"
     },
     {
       "company": "杭州良益农业开发有限公司",
@@ -27209,22 +27561,6 @@
     },
     {
       "company": "西安图为电气技术有限公司",
-      "title": "电力电子硬件工程师",
-      "city": "陕西",
-      "salary": "10-22K",
-      "degree": "本科及以上",
-      "date": "11:20",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/PPKYDhFW76SgCf67yhLgfC/detail.html",
-      "description": "股份制企业 · 1-49人 · 不限专业",
-      "industry": "制造业",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
-      "company": "西安图为电气技术有限公司",
       "title": "电力电子软件工程师",
       "city": "陕西",
       "salary": "10-22K",
@@ -28056,22 +28392,6 @@
       "discoveredAt": "2026-07-14"
     },
     {
-      "company": "杭州新融邻帮科技有限公司",
-      "title": "市场管培生",
-      "city": "福建",
-      "salary": "3-5K",
-      "degree": "专科及以上",
-      "date": "11:12",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/DdAaKGtALV9QhAGH91mBRU/detail.html",
-      "description": "合资企业 · 50-99人 · 市场营销",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
       "company": "中洲联创（厦门）科技有限公司",
       "title": "德语翻译 德语ASR 德语校队",
       "city": "全国",
@@ -28376,54 +28696,6 @@
       "discoveredAt": "2026-08-24"
     },
     {
-      "company": "西安冬俊体育发展有限公司",
-      "title": "篮球教练",
-      "city": "陕西",
-      "salary": "5-12K",
-      "degree": "专科及以上",
-      "date": "11:09",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/9nbKsXAUEeLAMbK3i9ZSLA/detail.html",
-      "description": "其他 · 100-499人 · 体育 营销 教育",
-      "industry": "教育",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
-      "company": "深圳市桢源建筑工程有限公司",
-      "title": "绿化养护技术员",
-      "city": "四川",
-      "salary": "5-6K",
-      "degree": "专科及以上",
-      "date": "11:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/JLMbMUjwKGvKSQVDmpFHuT/detail.html",
-      "description": "民营企业 · 50-99人",
-      "industry": "建筑地产",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
-      "company": "中国大地财产保险股份有限公司揭阳中心支公司",
-      "title": "续保实习生（公司提供资源，包吃住，可盖章，晋升大）",
-      "city": "广东",
-      "salary": "4-8K",
-      "degree": "专科及以上",
-      "date": "11:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/AJaGqAkVDcGKz3hgysxnHg/detail.html",
-      "description": "国有企业 · 100-499人",
-      "industry": "金融",
-      "type": "实习",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
       "company": "中穆海诚（山东）科技有限公司",
       "title": "AI智能训练师-大数据分类",
       "city": "山西",
@@ -28486,54 +28758,6 @@
       "type": "校招",
       "nature": "国企/事业单位",
       "discoveredAt": "2026-08-11"
-    },
-    {
-      "company": "中国大地财产保险股份有限公司揭阳中心支公司",
-      "title": "车险电销客服（晋升空间大，实习可盖章，后期可返乡）",
-      "city": "广东",
-      "salary": "4-8K",
-      "degree": "专科及以上",
-      "date": "11:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/LesifEmeqiyj5wyMEP9aKh/detail.html",
-      "description": "国有企业 · 100-499人",
-      "industry": "金融",
-      "type": "实习",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
-      "company": "深圳市桢源建筑工程有限公司",
-      "title": "建筑废弃物处理技术员",
-      "city": "四川",
-      "salary": "5-6K",
-      "degree": "专科及以上",
-      "date": "11:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/5QMgTgA4YffZRs7dPpxHKU/detail.html",
-      "description": "民营企业 · 50-99人",
-      "industry": "建筑地产",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
-      "company": "上海昆睿机器人有限公司",
-      "title": "plc电气工程师 五休二",
-      "city": "上海",
-      "salary": "6-12K",
-      "degree": "本科及以上",
-      "date": "11:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/Lp6ee459MdQMjd3QTnKvaQ/detail.html",
-      "description": "民营企业 · 1-49人 · 电气工程 自动化 机电一体化等相关专业",
-      "industry": "制造业",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
     },
     {
       "company": "黄岛区万立宝机械中心",
@@ -29016,22 +29240,6 @@
       "discoveredAt": "2026-08-11"
     },
     {
-      "company": "浙江华川深能环保有限公司",
-      "title": "虚拟电厂工程师",
-      "city": "浙江",
-      "salary": "7-15K",
-      "degree": "本科及以上",
-      "date": "11:03",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/8EwEeqBVh34ANc5jZupCdb/detail.html",
-      "description": "民营企业 · 100-499人 · 能源互联网工程 智慧能源工程 智慧电厂 虚拟电厂 储能 新能源科学与工程 电网优化控制 能源与动力 电气自动化",
-      "industry": "互联网",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
       "company": "浙江灵动智航科技有限公司长沙分公司",
       "title": "小区快递配送员",
       "city": "湖南",
@@ -29174,22 +29382,6 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-08-14"
-    },
-    {
-      "company": "云南华盛图书有限公司",
-      "title": "学校发书员",
-      "city": "云南",
-      "salary": "3-4K",
-      "degree": "不限",
-      "date": "10:57",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/Lpwz6gFWakR7orKAiPtbg3/detail.html",
-      "description": "民营企业 · 1-49人 · 不限专业",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
     },
     {
       "company": "灌南华侨高级中学",
@@ -29400,22 +29592,6 @@
       "discoveredAt": "2026-08-14"
     },
     {
-      "company": "福州九色鹿培训学校",
-      "title": "小/初/高英语教师",
-      "city": "福建",
-      "salary": "8-12K",
-      "degree": "本科及以上",
-      "date": "10:55",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/EmVq76euYGn4FBFpNZxeGF/detail.html",
-      "description": "其他 · 100-499人 · 英语 商务英语 翻译 学前教育（双语）",
-      "industry": "教育",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
       "company": "天津金鹰智能装备有限公司",
       "title": "工艺助理工程师",
       "city": "天津",
@@ -29430,22 +29606,6 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-08-07"
-    },
-    {
-      "company": "福州九色鹿培训学校",
-      "title": "急招高段英语教师",
-      "city": "福建",
-      "salary": "8-12K",
-      "degree": "本科及以上",
-      "date": "10:54",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/FrsL8Yaz3jG6ziG1JuK81b/detail.html",
-      "description": "其他 · 100-499人",
-      "industry": "教育",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
     },
     {
       "company": "奥祥（嘉兴）数据服务有限公司",
@@ -29558,54 +29718,6 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-08-14"
-    },
-    {
-      "company": "福州九色鹿培训学校",
-      "title": "英语教师（年薪保底10W）",
-      "city": "福建",
-      "salary": "8-9K",
-      "degree": "本科及以上",
-      "date": "10:52",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/Gt9HxXvqkKW86YmBoTia7Z/detail.html",
-      "description": "其他 · 100-499人",
-      "industry": "教育",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
-      "company": "上海昆睿机器人有限公司",
-      "title": "机械设计",
-      "city": "上海",
-      "salary": "5-10K",
-      "degree": "本科及以上",
-      "date": "10:52",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/R3cuGZyJmrQ7KvhtkNbfux/detail.html",
-      "description": "民营企业 · 1-49人 · 机械 机电 自动化类相关专业",
-      "industry": "制造业",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
-    },
-    {
-      "company": "上海昆睿机器人有限公司",
-      "title": "机器人初级调试人员（技术储备）",
-      "city": "上海",
-      "salary": "4.5-6.5K",
-      "degree": "本科及以上",
-      "date": "10:52",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/32HYvh7yE8u23kau2Vb2bb/detail.html",
-      "description": "民营企业 · 1-49人 · 机械 机电 自动化类相关专业",
-      "industry": "制造业",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
     },
     {
       "company": "杭州捷英体育培训有限公司",
@@ -30470,22 +30582,6 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-08-14"
-    },
-    {
-      "company": "保定东泽数字科技有限公司",
-      "title": "化工数据跟踪员",
-      "city": "河北",
-      "salary": "4-5K",
-      "degree": "专科及以上",
-      "date": "10:37",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/5vgZqj7ArTQodkYLLMaHkq/detail.html",
-      "description": "民营企业 · 100-499人 · 化学相关专业",
-      "industry": "互联网",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-24"
     },
     {
       "company": "苏州工业园区金鸡湖大酒店有限公司阳澄湖澜廷酒店",
@@ -32300,23 +32396,23 @@
     {
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
-      "count": 50,
-      "checkedAt": "2026-08-24 21:16",
+      "count": 40,
+      "checkedAt": "2026-08-25 03:02",
       "reachable": true
     },
     {
       "source": "应届生求职网",
-      "status": "updated",
-      "count": 12,
-      "checkedAt": "2026-08-24 21:16",
+      "status": "retained",
+      "count": 20,
+      "checkedAt": "2026-08-25 03:02",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-24 21:16",
-      "reachable": true
+      "checkedAt": "2026-08-25 03:02",
+      "reachable": false
     }
   ]
 }
