@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-24 15:30",
+  "updatedAt": "2026-08-24 21:16",
   "timezone": "Asia/Shanghai",
-  "total": 2020,
+  "total": 2022,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -225,6 +225,22 @@
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fctyun.hotjob.cn",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-24"
+    },
+    {
+      "company": "新华三技术有限公司",
+      "title": "新华三技术有限公司",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-08-24",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fcareer.h3c.com%2F",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
       "type": "校招",
@@ -29992,6 +30008,22 @@
       "discoveredAt": "2026-08-14"
     },
     {
+      "company": "中国大地财产保险股份有限公司东莞分公司第五营销服务部",
+      "title": "国企直招实习生可转正",
+      "city": "广东",
+      "salary": "4-8K",
+      "degree": "专科及以上",
+      "date": "10:49",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/XM9hsxzGMtVgNA21Tq3yad/detail.html",
+      "description": "股份制企业 · 50-99人",
+      "industry": "金融",
+      "type": "实习",
+      "nature": "国企/事业单位",
+      "discoveredAt": "2026-08-24"
+    },
+    {
       "company": "阳光人寿保险股份有限公司成都电话销售中心",
       "title": "车险项目经理",
       "city": "全国",
@@ -32269,21 +32301,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-08-24 15:30",
+      "checkedAt": "2026-08-24 21:16",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 11,
-      "checkedAt": "2026-08-24 15:30",
+      "count": 12,
+      "checkedAt": "2026-08-24 21:16",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-24 15:30",
+      "checkedAt": "2026-08-24 21:16",
       "reachable": true
     }
   ]
