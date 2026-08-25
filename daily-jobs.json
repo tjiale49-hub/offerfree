@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25 09:54",
+  "updatedAt": "2026-08-25 15:10",
   "timezone": "Asia/Shanghai",
-  "total": 2028,
+  "total": 2031,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -25720,6 +25720,54 @@
       "discoveredAt": "2026-08-12"
     },
     {
+      "company": "山东泰开高压开关有限公司",
+      "title": "研发工程师",
+      "city": "山东",
+      "salary": "10-15K",
+      "degree": "硕士及以上",
+      "date": "15:04",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/9uqDjbTPoF5BRY78P238jV/detail.html",
+      "description": "股份制企业 · 1000-4999人 · 电气工程 机械工程",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "杭州杜馥尔健康科技有限公司",
+      "title": "新媒体运营",
+      "city": "浙江",
+      "salary": "5-8K",
+      "degree": "专科及以上",
+      "date": "15:04",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/3h7VkCWLxkpDRmSfUhxcT4/detail.html",
+      "description": "民营企业 · 1-49人 · 新闻学 广告学 市场营销 设计 视觉传达 电子商务",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-25"
+    },
+    {
+      "company": "湖州市综合高级中学",
+      "title": "高中心理教师",
+      "city": "浙江",
+      "salary": "8-10K",
+      "degree": "本科及以上",
+      "date": "15:04",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/V5dm5bkaqGucqux6c2SbuM/detail.html",
+      "description": "机关/事业单位/非营利机构 · 100-499人 · 研究生所学专业要求为：三级专业目录心理学类：不限 或者 教育心理学或者 心理健康教育 或者 心理教育 或者 学习心理与发展 或者 课程与教学 本科：三级专业目录心理学类：不限 或者 心理健康教育",
+      "industry": "教育",
+      "type": "校招",
+      "nature": "国企/事业单位",
+      "discoveredAt": "2026-08-25"
+    },
+    {
       "company": "深圳市建筑设计研究总院有限公司",
       "title": "结构设计实习生",
       "city": "广东",
@@ -32396,22 +32444,22 @@
     {
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
-      "count": 50,
-      "checkedAt": "2026-08-25 09:54",
+      "count": 43,
+      "checkedAt": "2026-08-25 15:10",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "retained",
       "count": 20,
-      "checkedAt": "2026-08-25 09:54",
+      "checkedAt": "2026-08-25 15:10",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-25 09:54",
+      "checkedAt": "2026-08-25 15:10",
       "reachable": true
     }
   ]
