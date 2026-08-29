@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-30 00:45",
+  "updatedAt": "2026-08-30 04:57",
   "timezone": "Asia/Shanghai",
-  "total": 2287,
+  "total": 2288,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -210,6 +210,22 @@
       "source": "应届生求职网",
       "url": "https://jobs.51job.com/all/coB2gFZlU-BzoBZgVgXDg.html",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-30"
+    },
+    {
+      "company": "收库网络科技（重庆）有限公司",
+      "title": "二奢闲鱼买手",
+      "city": "重庆",
+      "salary": "6-10K",
+      "degree": "专科及以上",
+      "date": "2026-08-29",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/LRyoXaiQvnRqANkAJGXqj8/detail.html",
+      "description": "民营企业 · 100-499人",
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
@@ -36541,22 +36557,22 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-08-30 00:45",
+      "checkedAt": "2026-08-30 04:57",
       "reachable": true
     },
     {
       "source": "应届生求职网",
-      "status": "updated",
-      "count": 11,
-      "checkedAt": "2026-08-30 00:45",
+      "status": "retained",
+      "count": 22,
+      "checkedAt": "2026-08-30 04:57",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-30 00:45",
-      "reachable": true
+      "checkedAt": "2026-08-30 04:57",
+      "reachable": false
     }
   ]
 }
