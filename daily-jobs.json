@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-31 00:44",
+  "updatedAt": "2026-08-31 05:11",
   "timezone": "Asia/Shanghai",
-  "total": 2288,
+  "total": 2291,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -1061,6 +1061,54 @@
       "industry": "其他",
       "type": "校招",
       "nature": "外企",
+      "discoveredAt": "2026-08-31"
+    },
+    {
+      "company": "临汾鲲鹏数据科技有限公司",
+      "title": "大数据分析师（绍兴）",
+      "city": "浙江",
+      "salary": "2.5-5K",
+      "degree": "专科及以上",
+      "date": "2026-08-28",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/WJ8qQ6Tsj6WqCd4gg6soZf/detail.html",
+      "description": "民营企业 · 50-99人 · 不限",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-08-31"
+    },
+    {
+      "company": "临汾鲲鹏数据科技有限公司",
+      "title": "图片审核-实习生可来(丽水)",
+      "city": "浙江",
+      "salary": "2.5-4.8K",
+      "degree": "专科及以上",
+      "date": "2026-08-28",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/KFzhvzkUqrLkryud3juJdg/detail.html",
+      "description": "民营企业 · 50-99人 · 不限",
+      "industry": "互联网",
+      "type": "实习",
+      "nature": "其他",
+      "discoveredAt": "2026-08-31"
+    },
+    {
+      "company": "贵州韩健金方苗药有限公司",
+      "title": "养生美容导师",
+      "city": "贵州",
+      "salary": "3-12K",
+      "degree": "专科及以上",
+      "date": "2026-08-28",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/HpUHAvBoJXRP9nmNo8GAFr/detail.html",
+      "description": "民营企业 · 100-499人 · 中药、中医、医护、医疗、养生、健康、",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
       "discoveredAt": "2026-08-31"
     },
     {
@@ -36557,21 +36605,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-08-31 00:44",
+      "checkedAt": "2026-08-31 05:11",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
       "count": 9,
-      "checkedAt": "2026-08-31 00:44",
+      "checkedAt": "2026-08-31 05:11",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-08-31 00:44",
+      "checkedAt": "2026-08-31 05:11",
       "reachable": true
     }
   ]
