@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-04 05:05",
+  "updatedAt": "2026-09-04 12:39",
   "timezone": "Asia/Shanghai",
-  "total": 2723,
+  "total": 2728,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -421,6 +421,54 @@
       "industry": "金融",
       "type": "校招",
       "nature": "国企/事业单位",
+      "discoveredAt": "2026-09-04"
+    },
+    {
+      "company": "做开发工程师 ，挑战高年薪",
+      "title": "做开发工程师 ，挑战高年薪",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-09-04",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/jobs/search/%E5%BC%80%E5%8F%91?keyword=%E5%BC%80%E5%8F%91&saltype=07,08,09",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-04"
+    },
+    {
+      "company": "中国太平保险集团2027秋季校招",
+      "title": "中国太平保险集团2027秋季校招",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-09-04",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fcntp.zhiye.com%2Fcampus",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "金融",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-04"
+    },
+    {
+      "company": "平安金服2027届校园招聘",
+      "title": "平安金服2027届校园招聘",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-09-04",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fcampus.pingan.com%2Fpajf%2Fposition",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
       "discoveredAt": "2026-09-04"
     },
     {
@@ -1334,22 +1382,6 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-09-04"
-    },
-    {
-      "company": "做开发工程师 ，挑战高年薪",
-      "title": "做开发工程师 ，挑战高年薪",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-09-03",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://q.yingjiesheng.com/jobs/search/%E5%BC%80%E5%8F%91?keyword=%E5%BC%80%E5%8F%91&saltype=07,08,09",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-09-03"
     },
     {
       "company": "昂立科技东台有限公司",
@@ -42648,6 +42680,22 @@
       "discoveredAt": "2026-09-03"
     },
     {
+      "company": "中国银行股份有限公司",
+      "title": "中国银行股份有限公司2027年全球校园招聘公告",
+      "city": "北京",
+      "salary": "5-15K",
+      "degree": "本科及以上",
+      "date": "09:57",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/SLaDB8f5H72xoPf8Xxek6Q/detail.html",
+      "description": "国有企业 · 5000以上",
+      "industry": "金融",
+      "type": "校招",
+      "nature": "国企/事业单位",
+      "discoveredAt": "2026-09-04"
+    },
+    {
       "company": "河南红霸科技有限公司",
       "title": "驻点技术经理",
       "city": "全国",
@@ -42710,6 +42758,22 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-09-02"
+    },
+    {
+      "company": "广东孔雀创客技术研究有限公司",
+      "title": "代理记账会计",
+      "city": "广东",
+      "salary": "4-8K",
+      "degree": "本科及以上",
+      "date": "09:50",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/54gytCUsVfPyoT1EujAfbA/detail.html",
+      "description": "民营企业 · 1-49人 · 会计、财务、税务等相关专业",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-04"
     },
     {
       "company": "河北竖店影视发展有限公司",
@@ -43510,6 +43574,22 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-08-10"
+    },
+    {
+      "company": "南京见悠然食品有限公司",
+      "title": "门店店员",
+      "city": "江苏",
+      "salary": "3-8K",
+      "degree": "专科及以上",
+      "date": "09:16",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/AXpmCCpNF89D5MHXz4M3R1/detail.html",
+      "description": "民营企业 · 50-99人 · 市场营销",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-04"
     }
   ],
   "sourceStatus": [
@@ -43517,21 +43597,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-09-04 05:05",
+      "checkedAt": "2026-09-04 12:39",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 24,
-      "checkedAt": "2026-09-04 05:05",
+      "count": 27,
+      "checkedAt": "2026-09-04 12:39",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-09-04 05:05",
+      "checkedAt": "2026-09-04 12:39",
       "reachable": true
     }
   ]
