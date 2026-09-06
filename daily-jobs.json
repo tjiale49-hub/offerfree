@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06 04:26",
+  "updatedAt": "2026-09-06 12:45",
   "timezone": "Asia/Shanghai",
   "total": 2814,
   "items": [
@@ -1141,7 +1141,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-05"
+      "discoveredAt": "2026-09-06"
     },
     {
       "company": "曲靖樊旻杰商贸有限公司",
@@ -44973,21 +44973,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-09-06 04:26",
+      "checkedAt": "2026-09-06 12:45",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
       "count": 27,
-      "checkedAt": "2026-09-06 04:26",
+      "checkedAt": "2026-09-06 12:45",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-09-06 04:26",
+      "checkedAt": "2026-09-06 12:45",
       "reachable": true
     }
   ]
