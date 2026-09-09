@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-09 05:13",
+  "updatedAt": "2026-09-09 12:48",
   "timezone": "Asia/Shanghai",
-  "total": 3059,
+  "total": 3065,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -657,6 +657,38 @@
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://campus.51job.com/grantthornton2027",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-09"
+    },
+    {
+      "company": "中电23所2027校招",
+      "title": "中电23所2027校招",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-09-09",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://xyz.51job.com/External/Apply.aspx?CtmID=8942343",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-09"
+    },
+    {
+      "company": "宝可梦2027届校招",
+      "title": "宝可梦2027届校招",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-09-09",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://xyz.51job.com/External/Apply.aspx?CtmID=9562158",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
       "type": "校招",
@@ -40168,6 +40200,38 @@
       "discoveredAt": "2026-08-11"
     },
     {
+      "company": "长沙景嘉微电子股份有限公司",
+      "title": "硬件工程师-博士",
+      "city": "湖南",
+      "salary": "25-45K",
+      "degree": "博士及以上",
+      "date": "11:21",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/D5aCZytrZdqFchNpD67cMs/detail.html",
+      "description": "民营企业 · 100-499人 · 电子信息 人工智能 自动化 通信工程",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-09"
+    },
+    {
+      "company": "江苏益客食品集团股份有限公司",
+      "title": "精益专员",
+      "city": "山东",
+      "salary": "6-8K",
+      "degree": "本科及以上",
+      "date": "11:21",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Jhh14tsPGMfmmexeKLntEp/detail.html",
+      "description": "民营企业 · 5000以上 · 工业工程 管理科学与工程 农林经济管理 食品科学与工程 机械设计制造及其自动化",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-09"
+    },
+    {
       "company": "连云港市城乡规划设计咨询有限公司",
       "title": "实习生（提供实习津贴）",
       "city": "江苏",
@@ -42134,6 +42198,38 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-09-07"
+    },
+    {
+      "company": "长沙景嘉微电子股份有限公司",
+      "title": "AI软件工程师（北京/上海/长沙）",
+      "city": "湖南",
+      "salary": "20-30K",
+      "degree": "硕士及以上",
+      "date": "11:12",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/UF5gdo7tajeC4qoPhBbCtW/detail.html",
+      "description": "民营企业 · 100-499人 · 计算机 电子信息 数学",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-09"
+    },
+    {
+      "company": "长沙景嘉微电子股份有限公司",
+      "title": "GPU软件工程师（北京/上海/长沙）",
+      "city": "湖南",
+      "salary": "20-30K",
+      "degree": "硕士及以上",
+      "date": "11:12",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/FwJ8rEDAnWn3y7NE7aQoFG/detail.html",
+      "description": "民营企业 · 100-499人 · 计算机",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-09"
     },
     {
       "company": "中洲联创（厦门）科技有限公司",
@@ -48893,21 +48989,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-09-09 05:13",
+      "checkedAt": "2026-09-09 12:48",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 39,
-      "checkedAt": "2026-09-09 05:13",
+      "count": 41,
+      "checkedAt": "2026-09-09 12:48",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-09-09 05:13",
+      "checkedAt": "2026-09-09 12:48",
       "reachable": true
     }
   ]
