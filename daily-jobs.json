@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-11 12:46",
+  "updatedAt": "2026-09-11 19:28",
   "timezone": "Asia/Shanghai",
-  "total": 3255,
+  "total": 3257,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -47848,6 +47848,22 @@
       "discoveredAt": "2026-09-11"
     },
     {
+      "company": "广州星孛科技有限公司西安分公司",
+      "title": "行政实习生",
+      "city": "湖北",
+      "salary": "2-3K",
+      "degree": "本科及以上",
+      "date": "10:49",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/T8bGQtwRbwHc4PhvPQd6TX/detail.html",
+      "description": "民营企业 · 1000-4999人 · 人力资源专业",
+      "industry": "其他",
+      "type": "实习",
+      "nature": "其他",
+      "discoveredAt": "2026-09-11"
+    },
+    {
       "company": "阳光人寿保险股份有限公司成都电话销售中心",
       "title": "车险项目经理",
       "city": "全国",
@@ -47955,6 +47971,22 @@
       "url": "https://job.ncss.cn/student/jobs/JpEpYS415yFS8UrV9RzPmy/detail.html",
       "description": "港澳台公司 · 5000以上 · 市场营销 广告学 传播学 会展经济与管理 网络营销等 食品工程 生物工程等 电气工程及自动化 工业工程 能源动力 动力工程 智能科学与技术等",
       "industry": "化工医药",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-11"
+    },
+    {
+      "company": "隐溪（上海）文化传播有限公司",
+      "title": "高级茶艺师",
+      "city": "上海",
+      "salary": "5-8K",
+      "degree": "专科及以上",
+      "date": "10:48",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/2YKcDCSn5itrkXiZWYm2co/detail.html",
+      "description": "民营企业 · 100-499人 · 旅游管理 酒店管理 茶艺 空中乘务 轨道交通",
+      "industry": "其他",
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-09-11"
@@ -52029,21 +52061,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-09-11 12:46",
+      "checkedAt": "2026-09-11 19:28",
       "reachable": true
     },
     {
       "source": "应届生求职网",
-      "status": "updated",
-      "count": 51,
-      "checkedAt": "2026-09-11 12:46",
+      "status": "retained",
+      "count": 84,
+      "checkedAt": "2026-09-11 19:28",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-09-11 12:46",
+      "checkedAt": "2026-09-11 19:28",
       "reachable": true
     }
   ]
