@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-21 04:52",
+  "updatedAt": "2026-09-21 13:03",
   "timezone": "Asia/Shanghai",
-  "total": 3808,
+  "total": 3820,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -984,6 +984,22 @@
       "discoveredAt": "2026-09-21"
     },
     {
+      "company": "朗致集团人才招募",
+      "title": "朗致集团人才招募",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-09-21",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "http://campus.51job.com/lzjt/",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
+    },
+    {
       "company": "株洲信达机械科技股份有限公司",
       "title": "金属、粉末材料技术专员",
       "city": "湖南",
@@ -1921,22 +1937,6 @@
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fjob.icbc.com.cn%2Fpc%2Findex.html%23%2Fmain%2Fschool%2Fhome%2Fpost",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-09-20"
-    },
-    {
-      "company": "朗致集团人才招募",
-      "title": "朗致集团人才招募",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-09-20",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "http://campus.51job.com/lzjt/",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
       "type": "校招",
@@ -39608,22 +39608,6 @@
       "discoveredAt": "2026-07-22"
     },
     {
-      "company": "宁波雷自达电器有限公司",
-      "title": "采购助理",
-      "city": "浙江",
-      "salary": "3.5-6K",
-      "degree": "专科及以上",
-      "date": "2026-07-21",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/8Y8xbNwoepTuXudHLkqUyj/detail.html",
-      "description": "民营企业 · 100-499人 · 机电工程 机械工程 机电一体化 机械设计及自动化",
-      "industry": "制造业",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-07-22"
-    },
-    {
       "company": "绍兴市吉荷餐饮管理有限公司",
       "title": "后厨实习生",
       "city": "浙江",
@@ -49848,6 +49832,22 @@
       "discoveredAt": "2026-09-09"
     },
     {
+      "company": "宁波雷自达电器有限公司",
+      "title": "采购助理",
+      "city": "浙江",
+      "salary": "3.5-6K",
+      "degree": "专科及以上",
+      "date": "11:20",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/8Y8xbNwoepTuXudHLkqUyj/detail.html",
+      "description": "民营企业 · 100-499人 · 机电工程 机械工程 机电一体化 机械设计及自动化",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
+    },
+    {
       "company": "连云港市城乡规划设计咨询有限公司",
       "title": "实习生（提供实习津贴）",
       "city": "江苏",
@@ -50232,6 +50232,22 @@
       "discoveredAt": "2026-09-01"
     },
     {
+      "company": "徐州珂旅商贸有限公司",
+      "title": "电商招聘专员",
+      "city": "四川",
+      "salary": "5-8K",
+      "degree": "专科及以上",
+      "date": "11:19",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Pp9BVTqiRY9HVbJQuu4KUg/detail.html",
+      "description": "民营企业 · 500-999人",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
+    },
+    {
       "company": "上药控股安徽有限公司",
       "title": "物流储备干部",
       "city": "安徽",
@@ -50294,6 +50310,22 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-09-08"
+    },
+    {
+      "company": "泰康人寿保险有限责任公司浙江嘉兴中心支公司",
+      "title": "管培生",
+      "city": "浙江",
+      "salary": "7-9K",
+      "degree": "本科及以上",
+      "date": "11:18",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/NrPiaEG5YAZnjWwGa9bLVr/detail.html",
+      "description": "民营企业 · 50-99人 · 金融 经济 保险 市场营销",
+      "industry": "金融",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
     },
     {
       "company": "浙江英联锂能新能源科技有限公司",
@@ -51126,6 +51158,22 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-09-16"
+    },
+    {
+      "company": "厦门仁泽同创网络科技有限公司",
+      "title": "谷歌商务代表",
+      "city": "福建",
+      "salary": "5-12K",
+      "degree": "专科及以上",
+      "date": "11:15",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/PoTQUyQHwQ9FzTY5cgu8x5/detail.html",
+      "description": "民营企业 · 1-49人",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
     },
     {
       "company": "广州市乐华鸿盛贸易有限公司",
@@ -53368,6 +53416,38 @@
       "discoveredAt": "2026-09-16"
     },
     {
+      "company": "中蓝长化工程科技有限公司",
+      "title": "地质设计师（2027校招）",
+      "city": "湖南",
+      "salary": "10-15K",
+      "degree": "硕士及以上",
+      "date": "11:06",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/XgY64uMMTsGhzL766pwxQq/detail.html",
+      "description": "国有企业 · 500-999人 · 地质工程 资源勘查工程",
+      "industry": "化工医药",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
+    },
+    {
+      "company": "西安市灞桥区阳光美语艺术培训学校有限公司",
+      "title": "销售专员",
+      "city": "陕西",
+      "salary": "4.5-9.9K",
+      "degree": "专科及以上",
+      "date": "11:06",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/7YiZKPqzhac4NwX3jYggMB/detail.html",
+      "description": "民营企业 · 50-99人 · 市场营销、教育类相关专业、其他专业也可",
+      "industry": "教育",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
+    },
+    {
       "company": "河南腾之源实业集团有限公司",
       "title": "项目工程师/产品技术支持",
       "city": "河南",
@@ -53670,6 +53750,22 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-09-14"
+    },
+    {
+      "company": "中蓝长化工程科技有限公司",
+      "title": "井建设计师（2027校招）",
+      "city": "湖南",
+      "salary": "10-15K",
+      "degree": "硕士及以上",
+      "date": "11:05",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/3TeSambJVrcu5qfP4MDMiE/detail.html",
+      "description": "国有企业 · 500-999人 · 井建工程 地下工程 岩土工程 隧道与地下结构",
+      "industry": "化工医药",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
     },
     {
       "company": "上海合橙网络科技有限公司",
@@ -54120,6 +54216,38 @@
       "discoveredAt": "2026-09-14"
     },
     {
+      "company": "重庆百亚卫生用品股份有限公司",
+      "title": "生产储备岗-机操/保全（27届应届毕业生）",
+      "city": "重庆",
+      "salary": "4-6K",
+      "degree": "专科及以上",
+      "date": "11:02",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/WureNpL4moJzZGct8ZUhS5/detail.html",
+      "description": "股份制企业 · 1000-4999人 · 电气工程及其自动化 机电一体化 机械设计制造及其自动化 机械电子工程 自动化",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
+    },
+    {
+      "company": "河南光华信息电子工程监理有限公司",
+      "title": "信息系统监理师",
+      "city": "河南",
+      "salary": "3-6K",
+      "degree": "专科及以上",
+      "date": "11:02",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/YKxvqDeQDLTUUDxcyTq97Z/detail.html",
+      "description": "民营企业 · 1-49人 · 电子信息工程 软件工程 通信工程及信息系统 计算机科学与技术 软件工程",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
+    },
+    {
       "company": "浙江灵动智航科技有限公司长沙分公司",
       "title": "小区快递配送员",
       "city": "湖南",
@@ -54232,6 +54360,38 @@
       "discoveredAt": "2026-09-17"
     },
     {
+      "company": "河南光华信息电子工程监理有限公司",
+      "title": "项目档案管理员",
+      "city": "河南",
+      "salary": "45-60K",
+      "degree": "本科及以上",
+      "date": "11:01",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/QspF9cMGjDU12GFNuprbQX/detail.html",
+      "description": "民营企业 · 1-49人 · 行政类、工程项目管理类",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
+    },
+    {
+      "company": "中蓝长化工程科技有限公司",
+      "title": "机械设计师（2027校招）",
+      "city": "湖南",
+      "salary": "10-15K",
+      "degree": "硕士及以上",
+      "date": "11:01",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/8BMNdq9XWmj6eoiJ6cBwZQ/detail.html",
+      "description": "国有企业 · 500-999人 · 机械设计 矿山机械 化工机械",
+      "industry": "化工医药",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
+    },
+    {
       "company": "山东省天安矿业集团有限公司",
       "title": "洗煤厂技术岗",
       "city": "山东",
@@ -54294,6 +54454,22 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-09-20"
+    },
+    {
+      "company": "郑州福盛康医疗设备有限公司",
+      "title": "电话销售",
+      "city": "河南",
+      "salary": "3-7K",
+      "degree": "专科及以上",
+      "date": "11:00",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/S4mS912JGk51Z2DPhtLAYz/detail.html",
+      "description": "民营企业 · 1-49人",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
     },
     {
       "company": "天津天宝供应链管理有限公司",
@@ -54646,6 +54822,22 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-09-20"
+    },
+    {
+      "company": "西安市灞桥区阳光美语艺术培训学校有限公司",
+      "title": "英语老师",
+      "city": "陕西",
+      "salary": "3.5-9.9K",
+      "degree": "本科及以上",
+      "date": "10:59",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/LW2Zf6hFnDrtQfZAdsnp7C/detail.html",
+      "description": "民营企业 · 50-99人 · 英语专业",
+      "industry": "教育",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-21"
     },
     {
       "company": "上海睿赋机械设备制造有限公司",
@@ -60877,21 +61069,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-09-21 04:52",
+      "checkedAt": "2026-09-21 13:03",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 59,
-      "checkedAt": "2026-09-21 04:52",
+      "count": 60,
+      "checkedAt": "2026-09-21 13:03",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-09-21 04:52",
+      "checkedAt": "2026-09-21 13:03",
       "reachable": true
     }
   ]
