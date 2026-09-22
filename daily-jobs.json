@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-22 13:04",
+  "updatedAt": "2026-09-22 19:45",
   "timezone": "Asia/Shanghai",
-  "total": 3873,
+  "total": 3874,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -913,6 +913,22 @@
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://campus.51job.com/luolai2027",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-22"
+    },
+    {
+      "company": "江苏金租2027届校招",
+      "title": "江苏金租2027届校招",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-09-22",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://campus.51job.com/jsleasing/",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
       "type": "校招",
@@ -61917,21 +61933,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-09-22 13:04",
+      "checkedAt": "2026-09-22 19:45",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 55,
-      "checkedAt": "2026-09-22 13:04",
+      "count": 56,
+      "checkedAt": "2026-09-22 19:45",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-09-22 13:04",
+      "checkedAt": "2026-09-22 19:45",
       "reachable": true
     }
   ]
