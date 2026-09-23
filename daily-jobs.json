@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-23 05:23",
+  "updatedAt": "2026-09-23 12:50",
   "timezone": "Asia/Shanghai",
-  "total": 3884,
+  "total": 3886,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -929,6 +929,38 @@
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://campus.51job.com/ndri",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-23"
+    },
+    {
+      "company": "保变电气2027校招",
+      "title": "保变电气2027校招",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-09-23",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "http://campus.51job.com/bbdq2027/",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-09-23"
+    },
+    {
+      "company": "山东电工2027校招",
+      "title": "山东电工2027校招",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-09-23",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://campus.51job.com/sdee2027",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
       "type": "校招",
@@ -62093,21 +62125,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-09-23 05:23",
+      "checkedAt": "2026-09-23 12:50",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 56,
-      "checkedAt": "2026-09-23 05:23",
+      "count": 57,
+      "checkedAt": "2026-09-23 12:50",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-09-23 05:23",
+      "checkedAt": "2026-09-23 12:50",
       "reachable": true
     }
   ]
