@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26 01:16",
+  "updatedAt": "2026-09-26 05:38",
   "timezone": "Asia/Shanghai",
   "total": 4035,
   "items": [
@@ -1061,7 +1061,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "梓塱(深圳)生物科技有限公司",
@@ -1413,7 +1413,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "上海星瀚智合科技有限公司",
@@ -1429,7 +1429,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "南通紫琅生物医药科技有限公司",
@@ -1445,7 +1445,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "北京智悦星辰科技有限公司",
@@ -1461,7 +1461,7 @@
       "industry": "互联网",
       "type": "实习",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "广州宝湾物流有限公司",
@@ -1493,7 +1493,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "深圳市三瑞兴业科技有限公司",
@@ -1509,7 +1509,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "苏州华欣汇智教育科技有限公司",
@@ -1525,7 +1525,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "浙江枫阁文旅科技有限责任公司",
@@ -1541,7 +1541,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "浙江枫阁文旅科技有限责任公司",
@@ -1557,7 +1557,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "上海星瀚智合科技有限公司",
@@ -1573,7 +1573,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-25"
+      "discoveredAt": "2026-09-26"
     },
     {
       "company": "河北衡基农资集团有限公司",
@@ -64509,21 +64509,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-09-26 01:16",
+      "checkedAt": "2026-09-26 05:38",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
       "count": 46,
-      "checkedAt": "2026-09-26 01:16",
+      "checkedAt": "2026-09-26 05:38",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-09-26 01:16",
+      "checkedAt": "2026-09-26 05:38",
       "reachable": true
     }
   ]
