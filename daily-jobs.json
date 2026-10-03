@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04 00:26",
+  "updatedAt": "2026-10-04 05:22",
   "timezone": "Asia/Shanghai",
   "total": 4145,
   "items": [
@@ -1301,7 +1301,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-10-02"
+      "discoveredAt": "2026-10-04"
     },
     {
       "company": "烟台万华一腾物流有限公司",
@@ -66269,21 +66269,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-04 00:26",
+      "checkedAt": "2026-10-04 05:22",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "retained",
       "count": 166,
-      "checkedAt": "2026-10-04 00:26",
+      "checkedAt": "2026-10-04 05:22",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-04 00:26",
+      "checkedAt": "2026-10-04 05:22",
       "reachable": true
     }
   ]
