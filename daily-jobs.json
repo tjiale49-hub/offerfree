@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-07 02:26",
+  "updatedAt": "2026-10-07 14:06",
   "timezone": "Asia/Shanghai",
-  "total": 4148,
+  "total": 4149,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -1141,7 +1141,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-29"
+      "discoveredAt": "2026-10-07"
     },
     {
       "company": "菱铁（厦门）机械有限公司",
@@ -1157,7 +1157,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-29"
+      "discoveredAt": "2026-10-07"
     },
     {
       "company": "菱铁（厦门）机械有限公司",
@@ -1173,7 +1173,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-29"
+      "discoveredAt": "2026-10-07"
     },
     {
       "company": "菱铁（厦门）机械有限公司",
@@ -1189,7 +1189,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-29"
+      "discoveredAt": "2026-10-07"
     },
     {
       "company": "菱铁（厦门）机械有限公司",
@@ -1205,7 +1205,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-29"
+      "discoveredAt": "2026-10-07"
     },
     {
       "company": "菱铁（厦门）机械有限公司",
@@ -1221,7 +1221,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-29"
+      "discoveredAt": "2026-10-07"
     },
     {
       "company": "菱铁（厦门）机械有限公司",
@@ -1237,7 +1237,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-09-29"
+      "discoveredAt": "2026-10-07"
     },
     {
       "company": "深圳市致诚达科技有限公司",
@@ -2053,6 +2053,22 @@
       "industry": "其他",
       "type": "校招",
       "nature": "国企/事业单位",
+      "discoveredAt": "2026-10-07"
+    },
+    {
+      "company": "安瑞检测认证（广东）有限公司",
+      "title": "服装验货员（全国出差）",
+      "city": "全国",
+      "salary": "4-8K",
+      "degree": "专科及以上",
+      "date": "2026-09-28",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/FqD4tYQZBCcaQRbVpR9GyZ/detail.html",
+      "description": "民营企业 · 100-499人 · 纺织 服装 纺织品 检验 检测",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
       "discoveredAt": "2026-10-07"
     },
     {
@@ -66317,21 +66333,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-07 02:26",
+      "checkedAt": "2026-10-07 14:06",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
       "count": 13,
-      "checkedAt": "2026-10-07 02:26",
+      "checkedAt": "2026-10-07 14:06",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-07 02:26",
+      "checkedAt": "2026-10-07 14:06",
       "reachable": true
     }
   ]
