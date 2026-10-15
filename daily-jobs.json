@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-15 12:47",
+  "updatedAt": "2026-10-15 19:37",
   "timezone": "Asia/Shanghai",
-  "total": 4653,
+  "total": 4657,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -69208,6 +69208,22 @@
       "discoveredAt": "2026-09-07"
     },
     {
+      "company": "亚新科国际铸造（山西）有限公司",
+      "title": "助理产品工程师",
+      "city": "山西",
+      "salary": "4-6K",
+      "degree": "本科及以上",
+      "date": "10:27",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/WexjqZfhbFx7pLzz1CzyZy/detail.html",
+      "description": "国有企业 · 1000-4999人 · 材料成形及控制工程 材料科学与工程",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-15"
+    },
+    {
       "company": "中国平安人寿保险股份有限公司上海电话销售中心",
       "title": "人事专员 助理",
       "city": "全国",
@@ -69398,6 +69414,22 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-09-17"
+    },
+    {
+      "company": "亚新科国际铸造（山西）有限公司",
+      "title": "助理机械工程师",
+      "city": "山西",
+      "salary": "4-6K",
+      "degree": "本科及以上",
+      "date": "10:25",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Q5TJxm9Ai3LeWeYSL8j5Cg/detail.html",
+      "description": "国有企业 · 1000-4999人 · 机械设计制造及其自动化 机械工程",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-15"
     },
     {
       "company": "广东杰思通讯股份有限公司",
@@ -69896,6 +69928,22 @@
       "discoveredAt": "2026-10-15"
     },
     {
+      "company": "上海移远通信技术股份有限公司",
+      "title": "销售代表",
+      "city": "全国",
+      "salary": "9-14K",
+      "degree": "本科及以上",
+      "date": "10:22",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Txn3k8axeRqwcXLBQdFwHv/detail.html",
+      "description": "股份制企业 · 1000-4999人 · 通信工程、计算机、自动化、市场营销、工商管理、国际贸易等相关专业优先",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-15"
+    },
+    {
       "company": "平安点创国际融资租赁有限公司",
       "title": "衍生品投资分析师（期货、期权方向）",
       "city": "全国",
@@ -69987,6 +70035,22 @@
       "url": "https://job.ncss.cn/student/jobs/JwFCwyofMxfGLmSd2PopEG/detail.html",
       "description": "民营企业 · 1-49人 · 电力相关专业",
       "industry": "制造业",
+      "type": "实习",
+      "nature": "其他",
+      "discoveredAt": "2026-10-15"
+    },
+    {
+      "company": "杭州昱军新能源科技有限公司",
+      "title": "实习销售",
+      "city": "浙江",
+      "salary": "2-3K",
+      "degree": "本科及以上",
+      "date": "10:21",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/6Ytt9gUvG3SuBRRf87aq4V/detail.html",
+      "description": "民营企业 · 1-49人 · 市场营销等专业",
+      "industry": "其他",
       "type": "实习",
       "nature": "其他",
       "discoveredAt": "2026-10-15"
@@ -74397,21 +74461,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-15 12:47",
+      "checkedAt": "2026-10-15 19:37",
       "reachable": true
     },
     {
       "source": "应届生求职网",
-      "status": "updated",
-      "count": 53,
-      "checkedAt": "2026-10-15 12:47",
+      "status": "retained",
+      "count": 216,
+      "checkedAt": "2026-10-15 19:37",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-15 12:47",
+      "checkedAt": "2026-10-15 19:37",
       "reachable": true
     }
   ]
