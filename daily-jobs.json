@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-16 01:06",
+  "updatedAt": "2026-10-16 05:28",
   "timezone": "Asia/Shanghai",
-  "total": 4657,
+  "total": 4660,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -803,6 +803,54 @@
       "url": "https://job.ncss.cn/student/jobs/DUQtZ9riVJX6PJBGJSpJRp/detail.html",
       "description": "民营企业 · 500-999人 · 自动化类 电气类",
       "industry": "化工医药",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-16"
+    },
+    {
+      "company": "河南富豪表行有限公司",
+      "title": "腕表销售大使",
+      "city": "河南",
+      "salary": "6-12K",
+      "degree": "本科及以上",
+      "date": "2026-10-15",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/V9dD6U3jnWhJ2pEAiGzJpX/detail.html",
+      "description": "民营企业 · 100-499人",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-16"
+    },
+    {
+      "company": "山西林草规划设计研究院有限公司",
+      "title": "总经理助理",
+      "city": "山西",
+      "salary": "7-15K",
+      "degree": "硕士及以上",
+      "date": "2026-10-15",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/QbesaZNXSU8hGZtYSu4D42/detail.html",
+      "description": "民营企业 · 1-49人 · 中文类 历史类 艺术类 管理类 文秘类 英语类 语言类 文学类",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-16"
+    },
+    {
+      "company": "人本股份有限公司",
+      "title": "现场工程师（免费住宿，提供餐补，五险一金，节假日补贴，年假，旅游等）",
+      "city": "安徽",
+      "salary": "6-9K",
+      "degree": "本科及以上",
+      "date": "2026-10-15",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/XDmr4C9Q9ppUrb1UB11EcS/detail.html",
+      "description": "民营企业 · 5000以上",
+      "industry": "其他",
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-10-16"
@@ -74461,21 +74509,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-16 01:06",
+      "checkedAt": "2026-10-16 05:28",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "retained",
       "count": 216,
-      "checkedAt": "2026-10-16 01:06",
+      "checkedAt": "2026-10-16 05:28",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-16 01:06",
+      "checkedAt": "2026-10-16 05:28",
       "reachable": true
     }
   ]
