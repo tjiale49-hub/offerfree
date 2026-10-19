@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19 04:50",
+  "updatedAt": "2026-10-19 12:48",
   "timezone": "Asia/Shanghai",
   "total": 4735,
   "items": [
@@ -1189,7 +1189,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "外企",
-      "discoveredAt": "2026-10-17"
+      "discoveredAt": "2026-10-19"
     },
     {
       "company": "江西景鸿技术服务有限公司",
@@ -1205,7 +1205,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-10-17"
+      "discoveredAt": "2026-10-19"
     },
     {
       "company": "山东雅诗鼎文化传播有限公司",
@@ -1221,7 +1221,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-10-17"
+      "discoveredAt": "2026-10-19"
     },
     {
       "company": "山东雅诗鼎文化传播有限公司",
@@ -1333,7 +1333,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-10-18"
+      "discoveredAt": "2026-10-19"
     },
     {
       "company": "四川美丰化工股份有限公司",
@@ -75709,21 +75709,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-19 04:50",
+      "checkedAt": "2026-10-19 12:48",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
       "count": 47,
-      "checkedAt": "2026-10-19 04:50",
+      "checkedAt": "2026-10-19 12:48",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-19 04:50",
+      "checkedAt": "2026-10-19 12:48",
       "reachable": true
     }
   ]
