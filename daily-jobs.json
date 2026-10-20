@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20 06:24",
+  "updatedAt": "2026-10-20 12:57",
   "timezone": "Asia/Shanghai",
-  "total": 4781,
+  "total": 4783,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -721,6 +721,38 @@
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "http://campus.51job.com/pudongwater2026/",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-20"
+    },
+    {
+      "company": "路易达孚（上海）有限公司",
+      "title": "路易达孚（上海）有限公司",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-10-20",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "http://campus.51job.com/LDC2027",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-20"
+    },
+    {
+      "company": "平安利顺校招",
+      "title": "平安利顺校招",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-10-20",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://campus.51job.com/PAT2025/",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
       "type": "校招",
@@ -76445,21 +76477,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-20 06:24",
+      "checkedAt": "2026-10-20 12:57",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 43,
-      "checkedAt": "2026-10-20 06:24",
+      "count": 45,
+      "checkedAt": "2026-10-20 12:57",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-20 06:24",
+      "checkedAt": "2026-10-20 12:57",
       "reachable": true
     }
   ]
