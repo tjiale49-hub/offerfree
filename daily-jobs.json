@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-21 12:56",
+  "updatedAt": "2026-10-21 19:57",
   "timezone": "Asia/Shanghai",
-  "total": 4831,
+  "total": 4836,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -769,6 +769,22 @@
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fdesaydc.zhiye.com%2Fcampus",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-21"
+    },
+    {
+      "company": "山金国际2027届校招",
+      "title": "山金国际2027届校招",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-10-21",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "http://campus.51job.com/sji2027/",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
       "type": "校招",
@@ -58296,6 +58312,22 @@
       "discoveredAt": "2026-10-09"
     },
     {
+      "company": "湖南长虹聚和源科技有限公司",
+      "title": "会计",
+      "city": "湖南",
+      "salary": "5-10K",
+      "degree": "本科及以上",
+      "date": "16:28",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/TMoh6AQjYAs2nMWUsbLYyU/detail.html",
+      "description": "民营企业 · 500-999人",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-21"
+    },
+    {
       "company": "健鼎（湖北）电子有限公司",
       "title": "储备技术员",
       "city": "湖北",
@@ -58310,6 +58342,54 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-10-09"
+    },
+    {
+      "company": "湖南长虹聚和源科技有限公司",
+      "title": "研发工程师",
+      "city": "湖南",
+      "salary": "8-12K",
+      "degree": "本科及以上",
+      "date": "16:26",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/WMoeqnmZxMY7QtchBoW1WD/detail.html",
+      "description": "民营企业 · 500-999人",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-21"
+    },
+    {
+      "company": "湖南长虹聚和源科技有限公司",
+      "title": "运营管理",
+      "city": "湖南",
+      "salary": "7-10K",
+      "degree": "本科及以上",
+      "date": "16:26",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/Qpc7uqztvncFUjPwdyX8Kt/detail.html",
+      "description": "民营企业 · 500-999人",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-21"
+    },
+    {
+      "company": "湖南长虹聚和源科技有限公司",
+      "title": "采购",
+      "city": "湖南",
+      "salary": "6-8K",
+      "degree": "本科及以上",
+      "date": "16:26",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/JgNbNQnKg3ucjRjHSSHrpH/detail.html",
+      "description": "民营企业 · 500-999人 · 电化学、材料学等学科专业",
+      "industry": "化工医药",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-21"
     },
     {
       "company": "中国平安人寿保险股份有限公司上海电话销售中心",
@@ -77245,21 +77325,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-21 12:56",
+      "checkedAt": "2026-10-21 19:57",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 45,
-      "checkedAt": "2026-10-21 12:56",
+      "count": 47,
+      "checkedAt": "2026-10-21 19:57",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-21 12:56",
+      "checkedAt": "2026-10-21 19:57",
       "reachable": true
     }
   ]
