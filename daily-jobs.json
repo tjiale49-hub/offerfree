@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-22 12:56",
+  "updatedAt": "2026-10-22 19:59",
   "timezone": "Asia/Shanghai",
-  "total": 4900,
+  "total": 4902,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -641,6 +641,22 @@
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "http://campus.51job.com/sji2027/",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-22"
+    },
+    {
+      "company": "财信金控校园招聘",
+      "title": "财信金控校园招聘",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-10-22",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://campus.51job.com/hncxjk2027/",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
       "type": "校招",
@@ -37784,38 +37800,6 @@
       "discoveredAt": "2026-08-24"
     },
     {
-      "company": "湖南象盒网络科技有限公司",
-      "title": "大学生创业孵化（房产销售）",
-      "city": "湖南",
-      "salary": "4-9K",
-      "degree": "不限",
-      "date": "2026-08-21",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/LWoichdqxMBMw2dK5YRagk/detail.html",
-      "description": "民营企业 · 5000以上",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-25"
-    },
-    {
-      "company": "湖南象盒网络科技有限公司",
-      "title": "房产中介经纪人",
-      "city": "湖南",
-      "salary": "5-9K",
-      "degree": "不限",
-      "date": "2026-08-21",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/JffAtYp8AMADSG366YCTQq/detail.html",
-      "description": "民营企业 · 5000以上",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-25"
-    },
-    {
       "company": "派科光电科技（深圳）有限公司",
       "title": "车间技术工",
       "city": "广东",
@@ -59192,6 +59176,54 @@
       "discoveredAt": "2026-08-10"
     },
     {
+      "company": "贵州云序科技有限公司",
+      "title": "手游GS",
+      "city": "贵州",
+      "salary": "3-12K",
+      "degree": "不限",
+      "date": "16:36",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/BSbgjbiwsgiHZaj8d6vvPH/detail.html",
+      "description": "民营企业 · 1-49人 · 电子商务 市场营销 广告学 传播学 传媒与数字媒体 计算机科学与技术 ？数字营销 电子商务 计算机科学与技术 软件工程 数据科学与大数据技术 人工智能 市场营销 数字媒体技术 新媒体运营",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-22"
+    },
+    {
+      "company": "湖南象盒网络科技有限公司",
+      "title": "大学生创业孵化（房产销售）",
+      "city": "湖南",
+      "salary": "4-9K",
+      "degree": "不限",
+      "date": "16:35",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/LWoichdqxMBMw2dK5YRagk/detail.html",
+      "description": "民营企业 · 5000以上",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-22"
+    },
+    {
+      "company": "湖南象盒网络科技有限公司",
+      "title": "房产中介经纪人",
+      "city": "湖南",
+      "salary": "5-9K",
+      "degree": "不限",
+      "date": "16:35",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/JffAtYp8AMADSG366YCTQq/detail.html",
+      "description": "民营企业 · 5000以上",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-22"
+    },
+    {
       "company": "上海明捷置业有限公司明捷万丽酒店",
       "title": "前台接待",
       "city": "上海",
@@ -78349,21 +78381,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-22 12:56",
+      "checkedAt": "2026-10-22 19:59",
       "reachable": true
     },
     {
       "source": "应届生求职网",
-      "status": "retained",
-      "count": 228,
-      "checkedAt": "2026-10-22 12:56",
+      "status": "updated",
+      "count": 39,
+      "checkedAt": "2026-10-22 19:59",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-22 12:56",
+      "checkedAt": "2026-10-22 19:59",
       "reachable": true
     }
   ]
