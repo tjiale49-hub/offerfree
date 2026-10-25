@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-25 04:54",
+  "updatedAt": "2026-10-25 12:49",
   "timezone": "Asia/Shanghai",
-  "total": 4968,
+  "total": 4969,
   "items": [
     {
       "title": "国新控股（雄安）有限公司相关岗位招聘公告",
@@ -1299,6 +1299,22 @@
       "url": "https://job.ncss.cn/student/jobs/Bg1zag87Usu8pLdT1ppjr1/detail.html",
       "description": "民营企业 · 5000以上 · 水利水电工程",
       "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-25"
+    },
+    {
+      "company": "黑龙江建龙钢铁有限公司",
+      "title": "炼焦工程师",
+      "city": "黑龙江",
+      "salary": "7-8K",
+      "degree": "本科及以上",
+      "date": "2026-10-23",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/MASTqizGA9FQdL6sihWG9s/detail.html",
+      "description": "民营企业 · 5000以上 · 化学工程与工艺",
+      "industry": "制造业",
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-10-25"
@@ -79437,21 +79453,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-25 04:54",
+      "checkedAt": "2026-10-25 12:49",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "retained",
       "count": 229,
-      "checkedAt": "2026-10-25 04:54",
+      "checkedAt": "2026-10-25 12:49",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-25 04:54",
+      "checkedAt": "2026-10-25 12:49",
       "reachable": true
     }
   ]
