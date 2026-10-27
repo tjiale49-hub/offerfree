@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27 13:12",
+  "updatedAt": "2026-10-27 20:20",
   "timezone": "Asia/Shanghai",
   "total": 5000,
   "items": [
@@ -79672,6 +79672,22 @@
       "discoveredAt": "2026-10-26"
     },
     {
+      "company": "东南（福建）汽车工业股份有限公司",
+      "title": "校企合作助理",
+      "city": "福建",
+      "salary": "4.5-5.5K",
+      "degree": "本科及以上",
+      "date": "09:28",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/D2TTb9LEdYodCUhHcr2EYq/detail.html",
+      "description": "国有企业 · 5000以上 · 人力资源 工商管理",
+      "industry": "制造业",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-27"
+    },
+    {
       "company": "招商银行股份有限公司信用卡中心",
       "title": "智能服务经营岗（银行网络客服9-13W）",
       "city": "四川",
@@ -79832,6 +79848,22 @@
       "discoveredAt": "2026-10-27"
     },
     {
+      "company": "北京清美未来展览有限公司",
+      "title": "展具设计师",
+      "city": "北京",
+      "salary": "6-9K",
+      "degree": "本科及以上",
+      "date": "09:27",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/FWtfPPwMgRv2EjzS8fWuyW/detail.html",
+      "description": "民营企业 · 1-49人 · 展示设计、家具设计、工业设计或产品设计专业",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-27"
+    },
+    {
       "company": "曲靖胡涛电子商务有限公司",
       "title": "Java开发",
       "city": "全国",
@@ -79910,38 +79942,6 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-08-10"
-    },
-    {
-      "company": "环鲸(廊坊)教育科技有限公司",
-      "title": "AI短剧制作工程师",
-      "city": "湖北",
-      "salary": "8-30K",
-      "degree": "专科及以上",
-      "date": "09:26",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/F2pykACd4fHfUuyjB3YnPe/detail.html",
-      "description": "民营企业 · 1-49人 · 计算机大类",
-      "industry": "教育",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-10"
-    },
-    {
-      "company": "环鲸(廊坊)教育科技有限公司",
-      "title": "AI剪辑制作",
-      "city": "河北",
-      "salary": "8-30K",
-      "degree": "专科及以上",
-      "date": "09:26",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/ChUNK4cbpz1hKEkX47jt1W/detail.html",
-      "description": "民营企业 · 1-49人 · 计算机大类",
-      "industry": "教育",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-10"
     }
   ],
   "sourceStatus": [
@@ -79949,21 +79949,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-27 13:12",
+      "checkedAt": "2026-10-27 20:20",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "retained",
       "count": 231,
-      "checkedAt": "2026-10-27 13:12",
+      "checkedAt": "2026-10-27 20:20",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-27 13:12",
+      "checkedAt": "2026-10-27 20:20",
       "reachable": true
     }
   ]
