@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30 13:55",
+  "updatedAt": "2026-10-30 21:03",
   "timezone": "Asia/Shanghai",
   "total": 5000,
   "items": [
@@ -65256,22 +65256,6 @@
       "discoveredAt": "2026-08-27"
     },
     {
-      "company": "台州市锐安硬质合金工具有限公司",
-      "title": "实习生",
-      "city": "浙江",
-      "salary": "4-13K",
-      "degree": "专科及以上",
-      "date": "15:49",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/YBLN1cZDpFsH2v6JZkLunY/detail.html",
-      "description": "民营企业 · 100-499人 · 机电一体化 工业机器人 电气工程 计算机应用技术 材料工程 机械设计制造及其自动化 专业不限",
-      "industry": "化工医药",
-      "type": "实习",
-      "nature": "其他",
-      "discoveredAt": "2026-08-27"
-    },
-    {
       "company": "浙江澳威激光器件有限公司",
       "title": "生产实习（电子类）",
       "city": "浙江",
@@ -65398,6 +65382,22 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-10-10"
+    },
+    {
+      "company": "深圳市名众数据科技有限公司",
+      "title": "行政前台",
+      "city": "广东",
+      "salary": "3-3.5K",
+      "degree": "专科及以上",
+      "date": "15:44",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/CxcGh7HLH1F6qPiWAjqzf2/detail.html",
+      "description": "民营企业 · 50-99人",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-30"
     },
     {
       "company": "曼迪匹艾（北京）科技服务有限公司",
@@ -66888,6 +66888,38 @@
       "discoveredAt": "2026-10-09"
     },
     {
+      "company": "北京世博威国际展览有限公司",
+      "title": "西峡分部展会招展代表",
+      "city": "河南",
+      "salary": "2.5-8K",
+      "degree": "专科及以上",
+      "date": "14:41",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/BND22PWxfZ9bg3St2wGQkz/detail.html",
+      "description": "民营企业 · 50-99人 · 会展专业 市场营销 国际商务 商务英语",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-30"
+    },
+    {
+      "company": "江苏碧浪水科技有限公司",
+      "title": "机电施工员",
+      "city": "江苏",
+      "salary": "6-8K",
+      "degree": "专科及以上",
+      "date": "14:41",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/BiTVAefg58zgDxwmcrBEQT/detail.html",
+      "description": "民营企业 · 50-99人 · 给排水科学与工程 建筑环境与能源应用工程 环境工程 能源与动力工程",
+      "industry": "建筑地产",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-30"
+    },
+    {
       "company": "东莞市德思环境仪器有限公司",
       "title": "研发工程师",
       "city": "广东",
@@ -67480,6 +67512,22 @@
       "discoveredAt": "2026-07-17"
     },
     {
+      "company": "台州市锐安硬质合金工具有限公司",
+      "title": "实习生",
+      "city": "浙江",
+      "salary": "4-13K",
+      "degree": "专科及以上",
+      "date": "14:36",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/YBLN1cZDpFsH2v6JZkLunY/detail.html",
+      "description": "民营企业 · 100-499人 · 机电一体化 工业机器人 电气工程 计算机应用技术 材料工程 机械设计制造及其自动化 专业不限",
+      "industry": "化工医药",
+      "type": "实习",
+      "nature": "其他",
+      "discoveredAt": "2026-10-30"
+    },
+    {
       "company": "岳阳建华工程有限公司",
       "title": "设备维修工",
       "city": "辽宁",
@@ -67510,6 +67558,22 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-07-17"
+    },
+    {
+      "company": "北京郎坤政业物业管理有限公司",
+      "title": "北京中信银行数据中心会议服务",
+      "city": "北京",
+      "salary": "4-6K",
+      "degree": "专科及以上",
+      "date": "14:36",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/FadeGGFDvfJQGK3hPo7PYG/detail.html",
+      "description": "民营企业 · 1-49人 · 旅游管理，酒店管理，高铁空乘，文秘，党务等专业",
+      "industry": "金融",
+      "type": "校招",
+      "nature": "国企/事业单位",
+      "discoveredAt": "2026-10-30"
     },
     {
       "company": "江西同和药业股份有限公司",
@@ -67590,6 +67654,38 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-10-09"
+    },
+    {
+      "company": "台州市锐安硬质合金工具有限公司",
+      "title": "总经理助理",
+      "city": "浙江",
+      "salary": "5-13K",
+      "degree": "专科及以上",
+      "date": "14:33",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/DcMGqBZNRxhjfFtDDC76RZ/detail.html",
+      "description": "民营企业 · 100-499人 · 机电一体化 工业机器人 电气工程 计算机应用技术 材料工程 机械设计制造及其自动化 专业不限 外贸专业 国际贸易专业 市场营销专业 模具设计与制造专业 电气自动化专业 汽车检测与维修技术专业 计算机应用技术 电子信息工程专业 土木工程专业 建筑工程技术专业",
+      "industry": "化工医药",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-30"
+    },
+    {
+      "company": "台州市锐安硬质合金工具有限公司",
+      "title": "平面设计岗",
+      "city": "浙江",
+      "salary": "5-13K",
+      "degree": "专科及以上",
+      "date": "14:32",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/AubQ2qhxjznMAR3gzMof6z/detail.html",
+      "description": "民营企业 · 100-499人 · 机电一体化 工业机器人 电气工程 计算机应用技术 材料工程 机械设计制造及其自动化 专业不限 外贸专业 国际贸易专业 市场营销专业 模具设计与制造专业 电气自动化专业 汽车检测与维修技术专业 计算机应用技术 电子信息工程专业 土木工程专业 建筑工程技术专业",
+      "industry": "化工医药",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-10-30"
     },
     {
       "company": "湖北乐奇网络科技有限公司",
@@ -79846,102 +79942,6 @@
       "type": "实习",
       "nature": "其他",
       "discoveredAt": "2026-09-24"
-    },
-    {
-      "company": "绍兴潮起十二时辰餐饮有限公司",
-      "title": "前厅实习生",
-      "city": "浙江",
-      "salary": "4-5K",
-      "degree": "专科及以上",
-      "date": "10:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/WpBchwEomioezjdLZ1wtRq/detail.html",
-      "description": "民营企业 · 1-49人 · 旅游管理 酒店管理 烹饪专业 高铁乘务 航空",
-      "industry": "其他",
-      "type": "实习",
-      "nature": "其他",
-      "discoveredAt": "2026-09-24"
-    },
-    {
-      "company": "绍兴潮起十二时辰餐饮有限公司",
-      "title": "后厨实习生",
-      "city": "浙江",
-      "salary": "4-5K",
-      "degree": "专科及以上",
-      "date": "10:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/G8bEBiL5uRZ9zDtnqKVm83/detail.html",
-      "description": "民营企业 · 1-49人 · 旅游管理 酒店管理 烹饪专业 高铁乘务 航空",
-      "industry": "其他",
-      "type": "实习",
-      "nature": "其他",
-      "discoveredAt": "2026-09-24"
-    },
-    {
-      "company": "绍兴潮起十二时辰餐饮有限公司",
-      "title": "迎宾实习生",
-      "city": "浙江",
-      "salary": "4-5K",
-      "degree": "专科及以上",
-      "date": "10:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/H4Bm3eVMWrU7UxmBuCF6RN/detail.html",
-      "description": "民营企业 · 1-49人 · 旅游管理 酒店管理 烹饪专业 高铁乘务 航空",
-      "industry": "其他",
-      "type": "实习",
-      "nature": "其他",
-      "discoveredAt": "2026-09-24"
-    },
-    {
-      "company": "绍兴潮起十二时辰餐饮有限公司",
-      "title": "餐饮实习生",
-      "city": "浙江",
-      "salary": "4-5K",
-      "degree": "专科及以上",
-      "date": "10:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/CGcovDvEqAwgeYa6EG6CL2/detail.html",
-      "description": "民营企业 · 1-49人 · 旅游管理 酒店管理 烹饪专业 高铁乘务 航空",
-      "industry": "其他",
-      "type": "实习",
-      "nature": "其他",
-      "discoveredAt": "2026-09-24"
-    },
-    {
-      "company": "南昌弘益药业有限公司",
-      "title": "EHS管理员",
-      "city": "江西",
-      "salary": "4-6K",
-      "degree": "专科及以上",
-      "date": "10:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/9Cy7zUzz5n59KmtcvbwFBv/detail.html",
-      "description": "民营企业 · 100-499人 · 安全工程、环境工程、化学工程、生物工程",
-      "industry": "化工医药",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-10-29"
-    },
-    {
-      "company": "绍兴市越城区迎恩门海虹舫餐饮有限公司",
-      "title": "宴会管培生",
-      "city": "浙江",
-      "salary": "3.4-3.5K",
-      "degree": "专科及以上",
-      "date": "10:08",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/KhFgwePVizwbZPAvY5c7Bo/detail.html",
-      "description": "其他 · 100-499人 · 烹饪 酒店管理 旅游管理 高铁乘务",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-10-29"
     }
   ],
   "sourceStatus": [
@@ -79949,21 +79949,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-10-30 13:55",
+      "checkedAt": "2026-10-30 21:03",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "retained",
       "count": 232,
-      "checkedAt": "2026-10-30 13:55",
+      "checkedAt": "2026-10-30 21:03",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-10-30 13:55",
+      "checkedAt": "2026-10-30 21:03",
       "reachable": true
     }
   ]
