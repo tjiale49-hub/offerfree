@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01 21:37",
+  "updatedAt": "2026-11-02 06:07",
   "timezone": "Asia/Shanghai",
   "total": 5000,
   "items": [
@@ -45,7 +45,7 @@
       "city": "全国",
       "salary": "薪资面议",
       "degree": "不限",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fzhaopin.chinacoal.com%2FrecruitNoticeDetail%3Fs%3DIEwNM5lbYASz5EomTawcar2A%252B%252BdGA8hEkVzq9ldbKDdAQRl0dCnSpvPiUSPSkNQc%252FUyqUiLi0OgxHLZTJTb4y4alNUvy3wm02%252BIFSR5kY%252F0%253D%26noticeId%3D418",
@@ -53,7 +53,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "平安金服27届校招",
@@ -61,7 +61,7 @@
       "city": "全国",
       "salary": "薪资面议",
       "degree": "不限",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fcampus.pingan.com%2Fpajf%2Fposition",
@@ -69,7 +69,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "上海银行股份有限公司",
@@ -77,7 +77,7 @@
       "city": "全国",
       "salary": "薪资面议",
       "degree": "不限",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fbosc.zhiye.com%2Fcampus",
@@ -85,7 +85,7 @@
       "industry": "金融",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "欧莱雅零售管培生",
@@ -93,7 +93,7 @@
       "city": "全国",
       "salary": "薪资面议",
       "degree": "不限",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fu.hrtps.com%2Fr%2FdyZlKS7IM",
@@ -101,7 +101,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "厦门银行股份有限公司",
@@ -109,7 +109,7 @@
       "city": "全国",
       "salary": "薪资面议",
       "degree": "不限",
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fxmbank.mokahr.vip",
@@ -117,7 +117,103 @@
       "industry": "金融",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
+    },
+    {
+      "company": "中国宝武钢铁集团有限公司",
+      "title": "中国宝武钢铁集团有限公司",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-11-02",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://campus.51job.com/baowugroup2027",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-02"
+    },
+    {
+      "company": "德赛电池校园招聘",
+      "title": "德赛电池校园招聘",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-11-02",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fdesaydc.zhiye.com%2Fcampus",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-02"
+    },
+    {
+      "company": "宝武资源有限公司",
+      "title": "宝武资源有限公司",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-11-02",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "http://campus.51job.com/baowuresources2027/",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-02"
+    },
+    {
+      "company": "全国招聘专利审查员",
+      "title": "全国招聘专利审查员",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-11-02",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://campus.51job.com/zlsxzhaopin/notice.html",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-02"
+    },
+    {
+      "company": "宝武智维2027届校园招聘",
+      "title": "宝武智维2027届校园招聘",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-11-02",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "http://campus.51job.com/baoiem2027",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-02"
+    },
+    {
+      "company": "做开发工程师 ，挑战高年薪",
+      "title": "做开发工程师 ，挑战高年薪",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-11-02",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/jobs/search/%E5%BC%80%E5%8F%91?keyword=%E5%BC%80%E5%8F%91&saltype=07,08,09",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "电投钍能2027届秋季校园招聘",
@@ -129,102 +225,6 @@
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fspicte.iguopin.com%2F",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-11-01"
-    },
-    {
-      "company": "中国宝武钢铁集团有限公司",
-      "title": "中国宝武钢铁集团有限公司",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-11-01",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://campus.51job.com/baowugroup2027",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-11-01"
-    },
-    {
-      "company": "德赛电池校园招聘",
-      "title": "德赛电池校园招聘",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-11-01",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fdesaydc.zhiye.com%2Fcampus",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-11-01"
-    },
-    {
-      "company": "宝武资源有限公司",
-      "title": "宝武资源有限公司",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-11-01",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "http://campus.51job.com/baowuresources2027/",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-11-01"
-    },
-    {
-      "company": "全国招聘专利审查员",
-      "title": "全国招聘专利审查员",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-11-01",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://campus.51job.com/zlsxzhaopin/notice.html",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-11-01"
-    },
-    {
-      "company": "宝武智维2027届校园招聘",
-      "title": "宝武智维2027届校园招聘",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-11-01",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "http://campus.51job.com/baoiem2027",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-11-01"
-    },
-    {
-      "company": "做开发工程师 ，挑战高年薪",
-      "title": "做开发工程师 ，挑战高年薪",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-11-01",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://q.yingjiesheng.com/jobs/search/%E5%BC%80%E5%8F%91?keyword=%E5%BC%80%E5%8F%91&saltype=07,08,09",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
       "type": "校招",
@@ -277,7 +277,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "苏州弘远电气股份有限公司",
@@ -293,7 +293,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "苏州弘远电气股份有限公司",
@@ -309,7 +309,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京世博威国际展览有限公司",
@@ -325,7 +325,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "江苏碧浪水科技有限公司",
@@ -341,7 +341,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "台州市锐安硬质合金工具有限公司",
@@ -357,7 +357,7 @@
       "industry": "化工医药",
       "type": "实习",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京郎坤政业物业管理有限公司",
@@ -389,7 +389,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "台州市锐安硬质合金工具有限公司",
@@ -405,7 +405,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "浙江吉速物流有限公司",
@@ -421,7 +421,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "杭州千载匠心科技有限公司",
@@ -453,7 +453,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "新希望六和股份有限公司",
@@ -469,7 +469,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "新疆维吾尔自治区喀什地区自然资源规划勘测院",
@@ -485,7 +485,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "青岛嘉芝宝服饰有限公司",
@@ -501,7 +501,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "陕西圆梦工场科技有限公司",
@@ -517,7 +517,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "陕西圆梦工场科技有限公司",
@@ -533,7 +533,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "陕西圆梦工场科技有限公司",
@@ -549,7 +549,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "陕西圆梦工场科技有限公司",
@@ -565,7 +565,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "陕西圆梦工场科技有限公司",
@@ -581,7 +581,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "陕西圆梦工场科技有限公司",
@@ -597,7 +597,7 @@
       "industry": "其他",
       "type": "实习",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "陕西圆梦工场科技有限公司",
@@ -613,7 +613,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "陕西圆梦工场科技有限公司",
@@ -629,7 +629,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "上海达卯科技有限公司",
@@ -709,7 +709,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "上海达卯科技有限公司",
@@ -741,7 +741,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "广东立信防雷科技有限公司",
@@ -757,7 +757,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "广东立信防雷科技有限公司",
@@ -773,7 +773,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "济南惠达通利消防设备有限公司",
@@ -789,7 +789,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "白象食品27届校招",
@@ -949,7 +949,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "上海百房通智能科技有限公司",
@@ -1045,7 +1045,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京麦田房产经纪有限公司",
@@ -1061,7 +1061,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京麦田房产经纪有限公司",
@@ -1077,7 +1077,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-10-30"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京麦田房产经纪有限公司",
@@ -1109,7 +1109,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "青岛紫领数智科技有限公司",
@@ -1157,7 +1157,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "中国船级社质量认证有限公司辽宁分公司",
@@ -1173,7 +1173,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京百事强贸易有限责任公司",
@@ -1189,7 +1189,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京百事强贸易有限责任公司",
@@ -1205,7 +1205,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京百事强贸易有限责任公司",
@@ -1221,7 +1221,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京百事强贸易有限责任公司",
@@ -1237,7 +1237,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京百事强贸易有限责任公司",
@@ -1253,7 +1253,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京百事强贸易有限责任公司",
@@ -1269,7 +1269,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京百事强贸易有限责任公司",
@@ -1285,7 +1285,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "中国船级社质量认证有限公司辽宁分公司",
@@ -1301,7 +1301,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "天职国际会计师事务所(特殊普通合伙)广州分所",
@@ -1413,7 +1413,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "广州市卓越里程教育科技有限公司",
@@ -1429,7 +1429,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京天时佳阁房地产投资顾问有限公司",
@@ -1445,7 +1445,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "北京天时佳阁房地产投资顾问有限公司",
@@ -1461,7 +1461,7 @@
       "industry": "建筑地产",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "齐齐哈尔工程学院",
@@ -1605,7 +1605,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "山东广垠新材料有限公司",
@@ -1621,7 +1621,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "成都市武侯区春蕾教育培训学校",
@@ -1637,7 +1637,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "芯联集成电路制造股份有限公司",
@@ -6373,7 +6373,7 @@
       "industry": "金融",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "云南利鲁环境建设有限公司",
@@ -34469,7 +34469,7 @@
       "industry": "金融",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-01"
+      "discoveredAt": "2026-11-02"
     },
     {
       "company": "山东鲁抗医药股份有限公司",
@@ -79949,21 +79949,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-11-01 21:37",
+      "checkedAt": "2026-11-02 06:07",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 12,
-      "checkedAt": "2026-11-01 21:37",
+      "count": 11,
+      "checkedAt": "2026-11-02 06:07",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-11-01 21:37",
+      "checkedAt": "2026-11-02 06:07",
       "reachable": true
     }
   ]
