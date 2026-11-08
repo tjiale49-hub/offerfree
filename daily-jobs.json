@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08 05:55",
+  "updatedAt": "2026-11-08 14:11",
   "timezone": "Asia/Shanghai",
   "total": 5000,
   "items": [
@@ -1074,6 +1074,22 @@
       "source": "24365国家大学生就业服务平台",
       "url": "https://job.ncss.cn/student/jobs/AVSmQZ2RN6fTezJtvxaBgG/detail.html",
       "description": "民营企业 · 100-499人",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-08"
+    },
+    {
+      "company": "上海合橙网络科技有限公司",
+      "title": "人形机器人训练师（浙江嘉兴）",
+      "city": "浙江",
+      "salary": "4-5K",
+      "degree": "专科及以上",
+      "date": "2026-11-06",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/WmhX7o22RVt4F8EBe2w4Zy/detail.html",
+      "description": "民营企业 · 50-99人",
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
@@ -79926,22 +79942,6 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-10-29"
-    },
-    {
-      "company": "广州穗标科技有限公司",
-      "title": "AI训练实习生",
-      "city": "广东",
-      "salary": "3-5K",
-      "degree": "专科及以上",
-      "date": "10:49",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/8Vj8ssYPeYHQoXzVzLE63c/detail.html",
-      "description": "民营企业 · 1-49人",
-      "industry": "其他",
-      "type": "实习",
-      "nature": "其他",
-      "discoveredAt": "2026-10-29"
     }
   ],
   "sourceStatus": [
@@ -79949,21 +79949,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-11-08 05:55",
+      "checkedAt": "2026-11-08 14:11",
       "reachable": true
     },
     {
       "source": "应届生求职网",
-      "status": "updated",
-      "count": 14,
-      "checkedAt": "2026-11-08 05:55",
+      "status": "retained",
+      "count": 239,
+      "checkedAt": "2026-11-08 14:11",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-11-08 05:55",
+      "checkedAt": "2026-11-08 14:11",
       "reachable": true
     }
   ]
