@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24 18:00",
+  "updatedAt": "2026-11-25 06:31",
   "timezone": "Asia/Shanghai",
   "total": 5000,
   "items": [
@@ -45,7 +45,7 @@
       "city": "全国",
       "salary": "薪资面议",
       "degree": "不限",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/jobs/search/%E5%9B%BD%E4%BC%81?keyword=%E5%9B%BD%E4%BC%81",
@@ -53,7 +53,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "江苏省广播电视集团有限公司",
@@ -61,7 +61,7 @@
       "city": "全国",
       "salary": "薪资面议",
       "degree": "不限",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "deadline": "以原文为准",
       "source": "应届生求职网",
       "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fzhaopin.jsbc.com%2Fschool.html",
@@ -69,7 +69,151 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
+    },
+    {
+      "company": "北京燃气2027校招",
+      "title": "北京燃气2027校招",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-11-25",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fbjgas.zhiye.com%2Fcampus",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-25"
+    },
+    {
+      "company": "做开发工程师 ，挑战高年薪",
+      "title": "做开发工程师 ，挑战高年薪",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-11-25",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/jobs/search/%E5%BC%80%E5%8F%91?keyword=%E5%BC%80%E5%8F%91&saltype=07,08,09",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-25"
+    },
+    {
+      "company": "长江证券股份有限公司",
+      "title": "长江证券股份有限公司",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-11-25",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fcjzq.zhiye.com%2Fcampus",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "金融",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-25"
+    },
+    {
+      "company": "中证金融研究院",
+      "title": "中证金融研究院",
+      "city": "全国",
+      "salary": "薪资面议",
+      "degree": "不限",
+      "date": "2026-11-25",
+      "deadline": "以原文为准",
+      "source": "应届生求职网",
+      "url": "https://xyz.51job.com/External/Apply.aspx?CtmID=9674687",
+      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
+      "industry": "金融",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-25"
+    },
+    {
+      "company": "辽阳市教育局",
+      "title": "基础教育招聘丨2026年辽阳市教育系统公开招聘",
+      "city": "辽宁",
+      "salary": "5-15K",
+      "degree": "硕士及以上",
+      "date": "2026-11-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/GWeS6uw9GiMnMoLHPTsoqw/detail.html",
+      "description": "机关/事业单位/非营利机构 · 100-499人",
+      "industry": "教育",
+      "type": "校招",
+      "nature": "国企/事业单位",
+      "discoveredAt": "2026-11-25"
+    },
+    {
+      "company": "杭州图云机器人有限公司",
+      "title": "游戏业务客服专员",
+      "city": "浙江",
+      "salary": "6-10K",
+      "degree": "专科及以上",
+      "date": "2026-11-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/TXCdV9HgSWqkcuZBnCsYCh/detail.html",
+      "description": "民营企业 · 1-49人",
+      "industry": "其他",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-25"
+    },
+    {
+      "company": "杭州图云机器人有限公司",
+      "title": "游戏服务客服实习生",
+      "city": "浙江",
+      "salary": "5-8K",
+      "degree": "专科及以上",
+      "date": "2026-11-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/8ELJLXXtzK1BHQ5JejM9v7/detail.html",
+      "description": "民营企业 · 1-49人",
+      "industry": "其他",
+      "type": "实习",
+      "nature": "其他",
+      "discoveredAt": "2026-11-25"
+    },
+    {
+      "company": "中铁七局集团武汉工程有限公司",
+      "title": "技术、商务、物资设备、安全、财务、综合管理",
+      "city": "全国",
+      "salary": "6-8K",
+      "degree": "本科及以上",
+      "date": "2026-11-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/AQFDvfvV1S2zvRDtPWkVao/detail.html",
+      "description": "国有企业 · 1000-4999人 · 土木工程、道路桥梁与渡河工程、水利水电工程、地质工程、给排水科学与工程、城市地下空间工程、建筑工程、测绘工程、无机非金属材料、建筑电气与智能化、建筑环境与能源应用工程、采矿工程、智能建造、建筑学、工程力学、机械制造及其自动化、材料科学与工程、财务管理、会计学、金融学、汉语言文学、新闻传播学、人力资源管理、历史学、哲学、计算机科学与技术、工程造价、工程管理 安全工程、环境科学与工程",
+      "industry": "金融",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-25"
+    },
+    {
+      "company": "四川古墨装饰工程有限公司",
+      "title": "设计师",
+      "city": "四川",
+      "salary": "2.5-3.5K",
+      "degree": "专科及以上",
+      "date": "2026-11-24",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/8fS1dTGnMFub3ogLc8agfH/detail.html",
+      "description": "民营企业 · 1-49人 · 熟练掌握计算机设计软件",
+      "industry": "互联网",
+      "type": "校招",
+      "nature": "其他",
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "机械重工招聘 机械专业看过来",
@@ -120,22 +264,6 @@
       "discoveredAt": "2026-11-24"
     },
     {
-      "company": "北京燃气2027校招",
-      "title": "北京燃气2027校招",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-11-24",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fbjgas.zhiye.com%2Fcampus",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-11-24"
-    },
-    {
       "company": "资本市场招聘 资本市场招聘",
       "title": "资本市场招聘 资本市场招聘",
       "city": "全国",
@@ -147,54 +275,6 @@
       "url": "https://campus.51job.com/ccms2026/",
       "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
       "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-11-24"
-    },
-    {
-      "company": "做开发工程师 ，挑战高年薪",
-      "title": "做开发工程师 ，挑战高年薪",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-11-24",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://q.yingjiesheng.com/jobs/search/%E5%BC%80%E5%8F%91?keyword=%E5%BC%80%E5%8F%91&saltype=07,08,09",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "其他",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-11-24"
-    },
-    {
-      "company": "长江证券股份有限公司",
-      "title": "长江证券股份有限公司",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-11-24",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://q.yingjiesheng.com/thirdlink?url=https%3A%2F%2Fcjzq.zhiye.com%2Fcampus",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "金融",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-11-24"
-    },
-    {
-      "company": "中证金融研究院",
-      "title": "中证金融研究院",
-      "city": "全国",
-      "salary": "薪资面议",
-      "degree": "不限",
-      "date": "2026-11-24",
-      "deadline": "以原文为准",
-      "source": "应届生求职网",
-      "url": "https://xyz.51job.com/External/Apply.aspx?CtmID=9674687",
-      "description": "公开招聘信息，详情及投递条件以来源平台原文为准。",
-      "industry": "金融",
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-11-24"
@@ -213,7 +293,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "深圳市明宏生物医疗科技有限公司",
@@ -229,7 +309,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "新汶矿业集团（伊犁）能源开发有限责任公司",
@@ -245,7 +325,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "新汶矿业集团（伊犁）能源开发有限责任公司",
@@ -261,7 +341,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "新汶矿业集团（伊犁）能源开发有限责任公司",
@@ -277,7 +357,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "广东亿等新能源有限公司",
@@ -293,7 +373,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "广东亿等新能源有限公司",
@@ -309,7 +389,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "昆山市唯安宠物医院有限公司",
@@ -325,7 +405,7 @@
       "industry": "其他",
       "type": "实习",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "东莞市德思环境仪器有限公司",
@@ -357,7 +437,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "四川金诺成城科技有限公司",
@@ -389,7 +469,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "汉川市第二中学",
@@ -405,7 +485,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "汉川市第二中学",
@@ -421,7 +501,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "汉川市第二中学",
@@ -437,7 +517,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "汉川市第二中学",
@@ -453,7 +533,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "汉川市第二中学",
@@ -469,7 +549,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "北京希望在线线上学科培训学校",
@@ -485,7 +565,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "中化云龙有限公司",
@@ -501,7 +581,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "中化云龙有限公司",
@@ -517,7 +597,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "中化云龙有限公司",
@@ -533,7 +613,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "中化云龙有限公司",
@@ -549,7 +629,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "中化云龙有限公司",
@@ -565,7 +645,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "天津市昊永化工工程有限公司",
@@ -581,7 +661,7 @@
       "industry": "化工医药",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "安徽七二八网络技术有限公司",
@@ -597,7 +677,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "宁波江北宠信宠物诊所有限公司",
@@ -613,7 +693,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "广州易戚科技有限公司",
@@ -629,7 +709,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "广州易戚科技有限公司",
@@ -645,7 +725,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "天津安航生态科技有限公司",
@@ -661,7 +741,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "天津安航生态科技有限公司",
@@ -677,7 +757,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "宁波精胜磁电科技有限公司",
@@ -693,7 +773,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "上海合路通信息发展有限公司",
@@ -709,7 +789,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "深圳塘鹅智能有限公司",
@@ -725,7 +805,7 @@
       "industry": "其他",
       "type": "实习",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "杭州家木木贸易有限公司",
@@ -741,7 +821,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "北京中兴实强陶瓷轴承有限公司",
@@ -757,7 +837,7 @@
       "industry": "制造业",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "德州市高度教育咨询有限公司",
@@ -773,7 +853,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "德州市高度教育咨询有限公司",
@@ -789,7 +869,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "德州市高度教育咨询有限公司",
@@ -805,7 +885,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "德州市高度教育咨询有限公司",
@@ -821,7 +901,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "德州市高度教育咨询有限公司",
@@ -837,7 +917,7 @@
       "industry": "教育",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "北京首合永信企业咨询有限公司",
@@ -853,7 +933,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "福州将至供应链有限公司",
@@ -869,7 +949,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "丸霹斯（杭州）科技有限公司",
@@ -885,7 +965,7 @@
       "industry": "互联网",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "丸霹斯（杭州）科技有限公司",
@@ -901,7 +981,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "丸霹斯（杭州）科技有限公司",
@@ -2533,7 +2613,7 @@
       "industry": "其他",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "福建高芬教育科技有限公司",
@@ -3045,7 +3125,7 @@
       "industry": "金融",
       "type": "校招",
       "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "东方通用航空摄影有限公司",
@@ -17669,7 +17749,7 @@
       "industry": "金融",
       "type": "校招",
       "nature": "其他",
-      "discoveredAt": "2026-11-24"
+      "discoveredAt": "2026-11-25"
     },
     {
       "company": "云南利鲁环境建设有限公司",
@@ -74760,22 +74840,6 @@
       "discoveredAt": "2026-08-10"
     },
     {
-      "company": "辽阳市教育局",
-      "title": "基础教育招聘丨2026年辽阳市教育系统公开招聘",
-      "city": "辽宁",
-      "salary": "5-15K",
-      "degree": "硕士及以上",
-      "date": "16:36",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/GWeS6uw9GiMnMoLHPTsoqw/detail.html",
-      "description": "机关/事业单位/非营利机构 · 100-499人",
-      "industry": "教育",
-      "type": "校招",
-      "nature": "国企/事业单位",
-      "discoveredAt": "2026-11-24"
-    },
-    {
       "company": "合勋国际贸易（海南）有限公司",
       "title": "无人机售后技术员",
       "city": "广东",
@@ -79878,70 +79942,6 @@
       "type": "校招",
       "nature": "其他",
       "discoveredAt": "2026-07-15"
-    },
-    {
-      "company": "江苏常居房地产营销策划有限公司",
-      "title": "有经验热爱招聘工作的招聘专员2名",
-      "city": "江苏",
-      "salary": "4-8K",
-      "degree": "专科及以上",
-      "date": "11:21",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/Tu72rjhdneavK2GgX5mmKf/detail.html",
-      "description": "民营企业 · 1000-4999人 · 心理学 管理学 工商 营销 人资",
-      "industry": "建筑地产",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-08-11"
-    },
-    {
-      "company": "长沙景嘉微电子股份有限公司",
-      "title": "硬件工程师-博士",
-      "city": "湖南",
-      "salary": "25-45K",
-      "degree": "博士及以上",
-      "date": "11:21",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/D5aCZytrZdqFchNpD67cMs/detail.html",
-      "description": "民营企业 · 100-499人 · 电子信息 人工智能 自动化 通信工程",
-      "industry": "制造业",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-09-09"
-    },
-    {
-      "company": "江苏益客食品集团股份有限公司",
-      "title": "精益专员",
-      "city": "山东",
-      "salary": "6-8K",
-      "degree": "本科及以上",
-      "date": "11:21",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/Jhh14tsPGMfmmexeKLntEp/detail.html",
-      "description": "民营企业 · 5000以上 · 工业工程 管理科学与工程 农林经济管理 食品科学与工程 机械设计制造及其自动化",
-      "industry": "制造业",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-09-09"
-    },
-    {
-      "company": "天津望圆智能科技股份有限公司",
-      "title": "样机试制实习生",
-      "city": "天津",
-      "salary": "5-8K",
-      "degree": "专科及以上",
-      "date": "11:20",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/XAQchDfRoMR8tEZn6YXSEp/detail.html",
-      "description": "合资企业 · 50-99人",
-      "industry": "其他",
-      "type": "实习",
-      "nature": "其他",
-      "discoveredAt": "2026-08-13"
     }
   ],
   "sourceStatus": [
@@ -79949,21 +79949,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-11-24 18:00",
+      "checkedAt": "2026-11-25 06:31",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
-      "count": 10,
-      "checkedAt": "2026-11-24 18:00",
+      "count": 6,
+      "checkedAt": "2026-11-25 06:31",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-11-24 18:00",
+      "checkedAt": "2026-11-25 06:31",
       "reachable": true
     }
   ]
