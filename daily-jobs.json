@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24 07:58",
+  "updatedAt": "2026-11-24 18:00",
   "timezone": "Asia/Shanghai",
   "total": 5000,
   "items": [
@@ -74760,6 +74760,22 @@
       "discoveredAt": "2026-08-10"
     },
     {
+      "company": "辽阳市教育局",
+      "title": "基础教育招聘丨2026年辽阳市教育系统公开招聘",
+      "city": "辽宁",
+      "salary": "5-15K",
+      "degree": "硕士及以上",
+      "date": "16:36",
+      "deadline": "以原文为准",
+      "source": "24365国家大学生就业服务平台",
+      "url": "https://job.ncss.cn/student/jobs/GWeS6uw9GiMnMoLHPTsoqw/detail.html",
+      "description": "机关/事业单位/非营利机构 · 100-499人",
+      "industry": "教育",
+      "type": "校招",
+      "nature": "国企/事业单位",
+      "discoveredAt": "2026-11-24"
+    },
+    {
       "company": "合勋国际贸易（海南）有限公司",
       "title": "无人机售后技术员",
       "city": "广东",
@@ -79926,22 +79942,6 @@
       "type": "实习",
       "nature": "其他",
       "discoveredAt": "2026-08-13"
-    },
-    {
-      "company": "阳光人寿保险股份有限公司成都电话销售中心",
-      "title": "AI编译器开发（后端方向）",
-      "city": "全国",
-      "salary": "10-20K",
-      "degree": "本科及以上",
-      "date": "11:20",
-      "deadline": "以原文为准",
-      "source": "24365国家大学生就业服务平台",
-      "url": "https://job.ncss.cn/student/jobs/5fMWYSBicf6mGCZN8Qebup/detail.html",
-      "description": "股份制企业 · 1000人以上 · 计算机科学与技术 软件工程 网络工程 信息安全 物联网工程 数字媒体技术 智能科学与技术 空间信息与数字技术 电子与计算机工程 数据科学与大数据技术 网络空间安全 电影制作 保密技术 服务科学与工程 移动应用开发 人工智能技术应用 工商管理 临床医学 电子信息工程 农学 园艺 植物保护 公共事业管理 物流管理 行政管理 电子商务 广告学 科学教育 外交学",
-      "industry": "金融",
-      "type": "校招",
-      "nature": "其他",
-      "discoveredAt": "2026-09-01"
     }
   ],
   "sourceStatus": [
@@ -79949,21 +79949,21 @@
       "source": "24365国家大学生就业服务平台",
       "status": "updated",
       "count": 50,
-      "checkedAt": "2026-11-24 07:58",
+      "checkedAt": "2026-11-24 18:00",
       "reachable": true
     },
     {
       "source": "应届生求职网",
       "status": "updated",
       "count": 10,
-      "checkedAt": "2026-11-24 07:58",
+      "checkedAt": "2026-11-24 18:00",
       "reachable": true
     },
     {
       "source": "中智招聘网",
       "status": "retained",
       "count": 6,
-      "checkedAt": "2026-11-24 07:58",
+      "checkedAt": "2026-11-24 18:00",
       "reachable": true
     }
   ]
